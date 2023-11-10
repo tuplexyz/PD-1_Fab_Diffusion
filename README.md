@@ -3,9 +3,9 @@
 
 ## Run EvoDiff in Docker Locally
 ```bash
-docker run -v C:\\Users\\Colby\\Documents\\GitHub\\pemfauxlizumab\\diffusion:/workspace/evodiff/pemfaux --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 --name evodiff --rm -it evodiff /bin/bash
+docker run -v .:/workspace/evodiff/PD1 --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 --name evodiff --rm -it evodiff /bin/bash
 
-## cd pemfaux
+## cd PD1
 ```
 
 ## Evolutionary Guided equence Generation
