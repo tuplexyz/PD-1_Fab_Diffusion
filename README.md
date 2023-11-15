@@ -5,7 +5,7 @@
 ```bash
 docker run -v .:/workspace/evodiff/PD1 --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 --name evodiff --rm -it evodiff /bin/bash
 
-## cd PD1
+## cd PD1/
 ```
 
 ## Evolutionary Guided equence Generation
