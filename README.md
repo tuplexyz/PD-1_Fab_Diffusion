@@ -46,3 +46,18 @@ tokenized_sample, generated_sequence  = generate_query_oadm_msa_simple(path_to_m
 
 print("New L chain sequence (no gaps, pad tokens)", re.sub('[!-]', '', generated_sequence[0][0],))
 ```
+
+
+## Make Fab Structure from H and L Chains
+
+### ...of Actual Sequences
+
+```bash
+python -O fab_pdb_maker.py 
+```
+
+### ...of Diffused Sequences
+
+```bash
+
+```
