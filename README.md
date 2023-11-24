@@ -48,7 +48,7 @@ print("New L chain sequence (no gaps, pad tokens)", re.sub('[!-]', '', generated
 ```
 
 
-## Make Fab Structure from H and L Chains
+## Make Fab Structures from H and L Chains
 
 ### ...of Actual Sequences
 
