@@ -58,6 +58,4 @@ python -O fab_pdb_maker.py
 
 ### ...of Diffused Sequences
 
-```bash
-
-```
+Use [scripts/AlphaFold2_batch.ipynb](scripts/AlphaFold2_batch.ipynb) to generate PDBs from sequences using ColabFold (AlphaFold2 with MMseqs2 Batch).
