@@ -59,3 +59,7 @@ python -O fab_pdb_maker.py
 ### ...of Diffused Sequences
 
 Use [scripts/AlphaFold2_batch.ipynb](scripts/AlphaFold2_batch.ipynb) to generate PDBs from sequences using ColabFold (AlphaFold2 with MMseqs2 Batch).
+
+
+Then, combine H and L chains in PyMol and export respective Fv PDBs.
+- Renumber L chains: `alter (chain L),resi=str(int(resi)+1000)`
