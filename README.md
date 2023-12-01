@@ -1,65 +1,12 @@
 # EvoDiff-Based Diffusion of novel, PD1-targeting Fab Structures
 
 
-## Run EvoDiff in Docker Locally
-```bash
-docker run -v .:/workspace/evodiff/PD1 --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 --name evodiff --rm -it evodiff /bin/bash
-
-## cd PD1/
-```
-
-## Evolutionary Guided equence Generation
-
-```python
-from evodiff.pretrained import MSA_OA_DM_MAXSUB
-from evodiff.generate_msa import generate_query_oadm_msa_simple
-import re
-import torch
-torch.set_default_device('cuda:0')
-
-checkpoint = MSA_OA_DM_MAXSUB()
-model, collater, tokenizer, scheme = checkpoint
-```
-
-### H Chain
-```python
-path_to_msa = './sequence_generation/inputs/PD1_Hchains_aligned.a3m'
-n_sequences=33 # number of sequences in MSA to subsample
-seq_length=200 # maximum sequence length to subsample
-selection_type='random' # or 'MaxHamming'; MSA subsampling scheme
-
-
-tokenized_sample, generated_sequence  = generate_query_oadm_msa_simple(path_to_msa, model, tokenizer, n_sequences, seq_length, device=0, selection_type=selection_type)
-
-print("New H chain sequence (no gaps, pad tokens)", re.sub('[!-]', '', generated_sequence[0][0],))
-```
-
-### L Chain
-```python
-path_to_msa = './sequence_generation/inputs/PD1_Lchains_aligned.a3m'
-n_sequences=33 # number of sequences in MSA to subsample
-seq_length=200 # maximum sequence length to subsample
-selection_type='random' # or 'MaxHamming'; MSA subsampling scheme
-
-
-tokenized_sample, generated_sequence  = generate_query_oadm_msa_simple(path_to_msa, model, tokenizer, n_sequences, seq_length, device=0, selection_type=selection_type)
-
-print("New L chain sequence (no gaps, pad tokens)", re.sub('[!-]', '', generated_sequence[0][0],))
-```
-
-
-## Make Fab Structures from H and L Chains
-
-### ...of Actual Sequences
-
-```bash
-python -O fab_pdb_maker.py 
-```
-
-### ...of Diffused Sequences
-
-Use [scripts/AlphaFold2_batch.ipynb](scripts/AlphaFold2_batch.ipynb) to generate PDBs from sequences using ColabFold (AlphaFold2 with MMseqs2 Batch).
-
-
-Then, combine H and L chains in PyMol and export respective Fv PDBs.
-- Renumber L chains: `alter (chain L),resi=str(int(resi)+1000)`
+## Steps:
+1. Generate Sequences using EvoDiff
+2. Generate Structures using AlphaFold2 or ABodyBuilder2
+3. Renumber PDB files of structures in PyMol
+    - Renumber L chains: `alter (chain L),resi=str(int(resi)+1000)`
+4. Detect CDR loop residues
+5. Generate HADDOCK experiment files
+6. Submit HADDOCK experiments to HPC
+7. Collect best docked PDB structure and metrics for each experiment
