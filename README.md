@@ -3,7 +3,7 @@
 
 ## Steps:
 1. Generate Sequences using EvoDiff
-2. Generate Structures using AlphaFold2 or ABodyBuilder2
+2. Generate Structures using AlphaFold2
 3. Renumber PDB files of structures in PyMol
     - Renumber L chains: `alter (chain L),resi=str(int(resi)+1000)`
 4. Detect CDR loop residues
