@@ -1,0 +1,9 @@
+AMBIG_TBL=Eurestobart-PD1_air.tbl
+HADDOCK_DIR=/root/haddock/haddock2.4-2021-01/
+N_COMP=2
+PDB_FILE1=./Eurestobart_renumberedLplus1000.pdb
+PDB_FILE2=./5jxe_pd1.pdb
+PROJECT_DIR=./
+PROT_SEGID_1=A
+PROT_SEGID_2=B
+RUN_NUMBER=1
