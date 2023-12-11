@@ -9,4 +9,5 @@
 4. Detect CDR loop residues
 5. Generate HADDOCK experiment files
 6. Submit HADDOCK experiments to HPC
+    - bash `./scripts/4_experiment_submission/submit_experiments.sh`
 7. Collect best docked PDB structure and metrics for each experiment
