@@ -1,4 +1,4 @@
-# EvoDiff-Based Diffusion of novel, PD1-targeting Fab Structures
+# Diffusion of novel, PD1-targeting Fab Structures with _in silico_ and Empirical Evaluation
 
 <h3 align="right">Tuple, LLC</h3>
 
