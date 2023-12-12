@@ -7,10 +7,9 @@
 #SBATCH --mem=500gb
 #SBATCH --time=8:00:00
 
-export SINGULARITY_CONTAINER_HOME=/home/$USER/PD1_Fab_Diffusion/
-module load singularity
+export SINGULARITY_CONTAINER_HOME=/users/$USER/PD1_Fab_Diffusion
 
 singularity run $SINGULARITY_CONTAINER_HOME/haddock.sif
 
 cd $2
-./run-docking.csh
+csh ./run-docking.csh
