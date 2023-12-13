@@ -13,6 +13,6 @@
 3. Generate HADDOCK experiment files
     - Run experiment generation using `scripts/3_experiment_generation/make_HADDOCK_experiments.ipynb`
 4. Submit HADDOCK experiments to HPC
-    - Create Singularity container from Docker image: `singularity build haddock.sif docker://cford38/haddock:2.4_64cores`
+    - Create Singularity container from Docker image: `singularity build haddock.sif docker://cford38/haddock:2.4_36cores`
     - Run experiment generation: `bash ./scripts/4_experiment_submission/submit_experiments.sh`
 5. Collect best docked PDB structure and metrics for each experiment
