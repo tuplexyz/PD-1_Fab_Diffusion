@@ -2,14 +2,21 @@
 #SBATCH --job-name=cford_pd1_iter_$1
 #SBATCH --partition=Orion
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=64
-#SBATCH --constraint=epyc
-#SBATCH --mem=500gb
-#SBATCH --time=8:00:00
+#SBATCH --ntasks-per-node=36
+#SBATCH --time=16:00:00
 
+## Set the main project directory
 export SINGULARITY_CONTAINER_HOME=/users/$USER/PD1_Fab_Diffusion
 
-singularity run $SINGULARITY_CONTAINER_HOME/haddock.sif
+## Set the experiments subdirectory
+EXP_DIR=$SINGULARITY_CONTAINER_HOME/docking/inputs/experiments/
 
-cd $2
-csh ./run-docking.csh
+## Set path to HADDOCK .sif file
+SIF=$SINGULARITY_CONTAINER_HOME/haddock.sif
+
+## Define temp directories
+export TMP=/scratch/$USER/tmp/
+export TMPDIR=/scratch/$USER/tmp/
+
+## Run HADDOCK experiment in container, pointing to the appropriate directory
+singularity run --cleanenv -B $EXP_DIR:/experiments,$TMP:$TMP $SIF /experiments/$1/run-docking.csh /experiments/$1
