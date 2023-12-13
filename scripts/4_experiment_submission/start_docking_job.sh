@@ -9,7 +9,7 @@
 export SINGULARITY_CONTAINER_HOME=/users/$USER/PD1_Fab_Diffusion
 
 ## Set the experiments subdirectory
-EXP_DIR=$SINGULARITY_CONTAINER_HOME/docking/inputs/experiments/
+EXP_DIR=$SINGULARITY_CONTAINER_HOME/docking/inputs/experiments
 
 ## Set path to HADDOCK .sif file
 SIF=$SINGULARITY_CONTAINER_HOME/haddock.sif
@@ -19,4 +19,4 @@ export TMP=/scratch/$USER/tmp/
 export TMPDIR=/scratch/$USER/tmp/
 
 ## Run HADDOCK experiment in container, pointing to the appropriate directory
-singularity run --cleanenv -B $EXP_DIR:/experiments,$TMP:$TMP $SIF /experiments/$1/run-docking.csh /experiments/$1
+singularity run --cleanenv $SIF /bin/csh $EXP_DIR/$1/run-docking.csh $EXP_DIR/$1
