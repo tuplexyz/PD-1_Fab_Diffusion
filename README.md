@@ -15,4 +15,5 @@
 4. Submit HADDOCK experiments to HPC
     - Create Singularity container from Docker image: `singularity build haddock.sif docker://cford38/haddock:2.4_36cores`
     - Run experiment generation: `bash ./scripts/4_experiment_submission/submit_experiments.sh`
+        - (Remember to `chmod -R 755` the `experiments/` folder so that Singularity can execute the scripts.)
 5. Collect best docked PDB structure and metrics for each experiment
