@@ -1,0 +1,22 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Toripalimab_7w.pdb Toripalimab_7w.pdb 533.375 -87.4471 -76.3681 -110.79 720.533 0 0 0 0 0 Toripalimab_7w.pdb 17 0 0 0 Toripalimab_7w.pdb 2258.52 
+Toripalimab_57w.pdb Toripalimab_57w.pdb 655.616 -77.5837 -66.2715 -113.122 835.01 0 0 0 0 0 Toripalimab_57w.pdb 20 0 0 0 Toripalimab_57w.pdb 2184.71 
+Toripalimab_12w.pdb Toripalimab_12w.pdb 602.565 -67.832 -56.8705 -109.615 769.05 0 0 0 0 0 Toripalimab_12w.pdb 20 0 0 0 Toripalimab_12w.pdb 2020.4 
+Toripalimab_29w.pdb Toripalimab_29w.pdb 708.965 -73.1283 -63.4754 -96.5289 868.969 0 0 0 0 0 Toripalimab_29w.pdb 21 0 0 0 Toripalimab_29w.pdb 2134.63 
+Toripalimab_59w.pdb Toripalimab_59w.pdb 626.351 -69.3351 -58.2278 -111.073 795.652 0 0 0 0 0 Toripalimab_59w.pdb 20 0 0 0 Toripalimab_59w.pdb 2098.38 
+Toripalimab_27w.pdb Toripalimab_27w.pdb 675.808 -66.1321 -57.993 -81.391 815.192 0 0 0 0 0 Toripalimab_27w.pdb 20 0 0 0 Toripalimab_27w.pdb 1989.99 
+Toripalimab_92w.pdb Toripalimab_92w.pdb 736.832 -76.689 -65.1813 -115.077 917.09 0 0 0 0 0 Toripalimab_92w.pdb 24 0 0 0 Toripalimab_92w.pdb 2041.81 
+Toripalimab_63w.pdb Toripalimab_63w.pdb 724.07 -70.2906 -59.1726 -111.18 894.422 0 0 0 0 0 Toripalimab_63w.pdb 22 0 0 0 Toripalimab_63w.pdb 2106.87 
+Toripalimab_133w.pdb Toripalimab_133w.pdb 809.925 -76.7124 -67.6162 -90.9619 968.503 0 0 0 0 0 Toripalimab_133w.pdb 25 0 0 0 Toripalimab_133w.pdb 2123.58 
+Toripalimab_21w.pdb Toripalimab_21w.pdb 645.214 -58.867 -49.1018 -97.6516 791.968 0 0 0 0 0 Toripalimab_21w.pdb 21 0 0 0 Toripalimab_21w.pdb 2044.01 
+Toripalimab_32w.pdb Toripalimab_32w.pdb 708.306 -68.4824 -56.1874 -122.95 887.443 0 0 0 0 0 Toripalimab_32w.pdb 25 0 0 0 Toripalimab_32w.pdb 2052.19 
+Toripalimab_151w.pdb Toripalimab_151w.pdb 732.77 -76.3258 -61.5748 -147.51 941.855 0 0 0 0 0 Toripalimab_151w.pdb 23 0 0 0 Toripalimab_151w.pdb 2122.2 
+Toripalimab_83w.pdb Toripalimab_83w.pdb 752.742 -70.9464 -62.2955 -86.5089 901.546 0 0 0 0 0 Toripalimab_83w.pdb 21 0 0 0 Toripalimab_83w.pdb 2016.03 
+Toripalimab_72w.pdb Toripalimab_72w.pdb 728.695 -66.3055 -55.9722 -103.333 888 0 0 0 0 0 Toripalimab_72w.pdb 22 0 0 0 Toripalimab_72w.pdb 2046.9 
+Toripalimab_184w.pdb Toripalimab_184w.pdb 839.967 -69.5096 -59.0695 -104.401 1003.44 0 0 0 0 0 Toripalimab_184w.pdb 25 0 0 0 Toripalimab_184w.pdb 2009.74 
+Toripalimab_131w.pdb Toripalimab_131w.pdb 813.294 -69.3659 -57.4533 -119.126 989.874 0 0 0 0 0 Toripalimab_131w.pdb 25 0 0 0 Toripalimab_131w.pdb 2112.81 
+Toripalimab_82w.pdb Toripalimab_82w.pdb 810.436 -66.7296 -57.2704 -94.5915 962.298 0 0 0 0 0 Toripalimab_82w.pdb 24 0 0 0 Toripalimab_82w.pdb 1995.19 
+Toripalimab_112w.pdb Toripalimab_112w.pdb 798.694 -60.5339 -51.0691 -94.6485 944.412 0 0 0 0 0 Toripalimab_112w.pdb 24 0 0 0 Toripalimab_112w.pdb 2069.02 
+Toripalimab_159w.pdb Toripalimab_159w.pdb 865.846 -72.2675 -61.7622 -105.053 1032.66 0 0 0 0 0 Toripalimab_159w.pdb 26 0 0 0 Toripalimab_159w.pdb 2054.94 
+Toripalimab_76w.pdb Toripalimab_76w.pdb 785.087 -59.226 -49.3446 -98.8136 933.245 0 0 0 0 0 Toripalimab_76w.pdb 23 0 0 0 Toripalimab_76w.pdb 1984.37 
+Toripalimab_139w.pdb Toripalimab_139w.pdb 784.289 -54.1439 -43.6171 -105.268 933.174 0 0 0 0 0 Toripalimab_139w.pdb 24 0 0 0 Toripalimab_139w.pdb 2034.51 

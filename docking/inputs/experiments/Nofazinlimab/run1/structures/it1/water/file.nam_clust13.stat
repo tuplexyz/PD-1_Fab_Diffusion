@@ -1,0 +1,5 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Nofazinlimab_19w.pdb Nofazinlimab_19w.pdb 263.201 -73.2979 -52.5053 -207.926 523.632 0 0 0 0 0 Nofazinlimab_19w.pdb 13 0 0 0 Nofazinlimab_19w.pdb 2112.48 
+Nofazinlimab_4w.pdb Nofazinlimab_4w.pdb 247.749 -70.0415 -54.9501 -150.914 453.614 0 0 0 0 0 Nofazinlimab_4w.pdb 12 0 0 0 Nofazinlimab_4w.pdb 2029.68 
+Nofazinlimab_169w.pdb Nofazinlimab_169w.pdb 314.508 -73.4261 -58.9143 -145.118 518.541 0 0 0 0 0 Nofazinlimab_169w.pdb 13 0 0 0 Nofazinlimab_169w.pdb 2108.03 
+Nofazinlimab_176w.pdb Nofazinlimab_176w.pdb 382.055 -64.3148 -52.6149 -116.999 551.669 0 0 0 0 0 Nofazinlimab_176w.pdb 14 0 0 0 Nofazinlimab_176w.pdb 1987.55 

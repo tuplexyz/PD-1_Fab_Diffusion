@@ -1,0 +1,10 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Balstilimab_105w.pdb Balstilimab_105w.pdb 182.776 -89.8223 -76.8766 -129.457 389.11 0 0 0 0 0 Balstilimab_105w.pdb 11 0 0 0 Balstilimab_105w.pdb 1863.74 
+Balstilimab_101w.pdb Balstilimab_101w.pdb 131.868 -83.1043 -69.3107 -137.936 339.114 0 0 0 0 0 Balstilimab_101w.pdb 9 0 0 0 Balstilimab_101w.pdb 1661.68 
+Balstilimab_148w.pdb Balstilimab_148w.pdb 187.663 -82.1195 -71.4844 -106.351 365.498 0 0 0 0 0 Balstilimab_148w.pdb 10 0 0 0 Balstilimab_148w.pdb 1827.93 
+Balstilimab_92w.pdb Balstilimab_92w.pdb 150.281 -76.2983 -66.6054 -96.9287 313.815 0 0 0 0 0 Balstilimab_92w.pdb 10 0 0 0 Balstilimab_92w.pdb 1853.49 
+Balstilimab_174w.pdb Balstilimab_174w.pdb 247.555 -76.6496 -65.2115 -114.381 427.147 0 0 0 0 0 Balstilimab_174w.pdb 13 0 0 0 Balstilimab_174w.pdb 1854.5 
+Balstilimab_127w.pdb Balstilimab_127w.pdb 257.144 -73.2994 -65.2108 -80.8855 403.24 0 0 0 0 0 Balstilimab_127w.pdb 12 0 0 0 Balstilimab_127w.pdb 1869.39 
+Balstilimab_43w.pdb Balstilimab_43w.pdb 178.208 -66.6162 -55.4493 -111.669 345.327 0 0 0 0 0 Balstilimab_43w.pdb 8 0 0 0 Balstilimab_43w.pdb 1626.13 
+Balstilimab_69w.pdb Balstilimab_69w.pdb 238.583 -70.7308 -61.9956 -87.3515 387.93 0 0 0 0 0 Balstilimab_69w.pdb 10 0 0 0 Balstilimab_69w.pdb 1744.58 
+Balstilimab_31w.pdb Balstilimab_31w.pdb 234.184 -60.2329 -51.0781 -91.548 376.81 0 0 0 0 0 Balstilimab_31w.pdb 11 0 0 0 Balstilimab_31w.pdb 1690.82 

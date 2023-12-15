@@ -1,0 +1,7 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Toripalimab_74w.pdb Toripalimab_74w.pdb 418.809 -69.802 -53.5788 -162.232 634.62 0 0 0 0 0 Toripalimab_74w.pdb 15 0 0 0 Toripalimab_74w.pdb 1621.15 
+Toripalimab_73w.pdb Toripalimab_73w.pdb 533.081 -66.2606 -47.2975 -189.631 770.01 0 0 0 0 0 Toripalimab_73w.pdb 18 0 0 0 Toripalimab_73w.pdb 1728.02 
+Toripalimab_108w.pdb Toripalimab_108w.pdb 439.837 -69.2615 -52.513 -167.485 659.835 0 0 0 0 0 Toripalimab_108w.pdb 16 0 0 0 Toripalimab_108w.pdb 1684.93 
+Toripalimab_185w.pdb Toripalimab_185w.pdb 457.181 -63.3909 -45.6027 -177.882 680.665 0 0 0 0 0 Toripalimab_185w.pdb 16 0 0 0 Toripalimab_185w.pdb 1646.93 
+Toripalimab_84w.pdb Toripalimab_84w.pdb 478.211 -67.4721 -58.9568 -85.1528 622.321 0 0 0 0 0 Toripalimab_84w.pdb 15 0 0 0 Toripalimab_84w.pdb 1625.59 
+Toripalimab_199w.pdb Toripalimab_199w.pdb 602.325 -60.4894 -44.7722 -157.172 804.27 0 0 0 0 0 Toripalimab_199w.pdb 19 0 0 0 Toripalimab_199w.pdb 1610.73 

@@ -1,0 +1,25 @@
+module(filenames;)
+set message off echo off end
+evaluate ($count = 1)
+while ($count le 2000) loop main
+   evaluate (&filenames.bestfile_$count = "")
+   evaluate ($count = $count + 1)
+end loop main
+set message on echo on end
+evaluate (&filenames.bestfile_1="PREVIT:Acrixolimab_18w.pdb")
+evaluate (&filenames.bestfile_2="PREVIT:Acrixolimab_60w.pdb")
+evaluate (&filenames.bestfile_3="PREVIT:Acrixolimab_176w.pdb")
+evaluate (&filenames.bestfile_4="PREVIT:Acrixolimab_26w.pdb")
+evaluate (&filenames.bestfile_5="PREVIT:Acrixolimab_196w.pdb")
+evaluate (&filenames.bestfile_6="PREVIT:Acrixolimab_81w.pdb")
+evaluate (&filenames.bestfile_7="PREVIT:Acrixolimab_32w.pdb")
+evaluate (&filenames.bestfile_8="PREVIT:Acrixolimab_142w.pdb")
+evaluate (&filenames.bestfile_9="PREVIT:Acrixolimab_43w.pdb")
+evaluate (&filenames.bestfile_10="PREVIT:Acrixolimab_96w.pdb")
+evaluate (&filenames.bestfile_11="PREVIT:Acrixolimab_79w.pdb")
+evaluate (&filenames.bestfile_12="PREVIT:Acrixolimab_150w.pdb")
+evaluate (&filenames.bestfile_13="PREVIT:Acrixolimab_114w.pdb")
+evaluate (&filenames.bestfile_14="PREVIT:Acrixolimab_157w.pdb")
+evaluate (&filenames.bestfile_15="PREVIT:Acrixolimab_101w.pdb")
+evaluate (&filenames.bestfile_16="PREVIT:Acrixolimab_164w.pdb")
+evaluate (&filenames.bestfile_17="PREVIT:Acrixolimab_87w.pdb")

@@ -1,0 +1,17 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Camrelizumab_72w.pdb Camrelizumab_72w.pdb 431.584 -64.2729 -63.2369 -10.3602 505.181 0 0 0 0 0 Camrelizumab_72w.pdb 13 0 0 0 Camrelizumab_72w.pdb 1517.59 
+Camrelizumab_116w.pdb Camrelizumab_116w.pdb 448.853 -57.2294 -55.707 -15.2237 519.784 0 0 0 0 0 Camrelizumab_116w.pdb 14 0 0 0 Camrelizumab_116w.pdb 1512.79 
+Camrelizumab_75w.pdb Camrelizumab_75w.pdb 456.211 -58.7732 -57.3065 -14.6674 528.185 0 0 0 0 0 Camrelizumab_75w.pdb 14 0 0 0 Camrelizumab_75w.pdb 1483.78 
+Camrelizumab_61w.pdb Camrelizumab_61w.pdb 483.043 -54.893 -56.622 17.2897 522.375 0 0 0 0 0 Camrelizumab_61w.pdb 15 0 0 0 Camrelizumab_61w.pdb 1575.98 
+Camrelizumab_147w.pdb Camrelizumab_147w.pdb 478.528 -60.1225 -62.3517 22.292 518.587 0 0 0 0 0 Camrelizumab_147w.pdb 12 0 0 0 Camrelizumab_147w.pdb 1484.91 
+Camrelizumab_154w.pdb Camrelizumab_154w.pdb 597.826 -64.0975 -65.3347 12.3724 650.788 0 0 0 0 0 Camrelizumab_154w.pdb 17 0 0 0 Camrelizumab_154w.pdb 1520.74 
+Camrelizumab_174w.pdb Camrelizumab_174w.pdb 513.053 -61.864 -59.9316 -19.3239 592.308 0 0 0 0 0 Camrelizumab_174w.pdb 16 0 0 0 Camrelizumab_174w.pdb 1534.8 
+Camrelizumab_49w.pdb Camrelizumab_49w.pdb 560.247 -61.3197 -61.9829 6.63174 615.598 0 0 0 0 0 Camrelizumab_49w.pdb 17 0 0 0 Camrelizumab_49w.pdb 1467.8 
+Camrelizumab_87w.pdb Camrelizumab_87w.pdb 466.687 -53.0997 -51.7673 -13.3244 531.778 0 0 0 0 0 Camrelizumab_87w.pdb 14 0 0 0 Camrelizumab_87w.pdb 1447.08 
+Camrelizumab_76w.pdb Camrelizumab_76w.pdb 444.288 -53.6286 -52.6349 -9.937 506.86 0 0 0 0 0 Camrelizumab_76w.pdb 14 0 0 0 Camrelizumab_76w.pdb 1461.7 
+Camrelizumab_27w.pdb Camrelizumab_27w.pdb 420.48 -47.358 -45.327 -20.3102 486.117 0 0 0 0 0 Camrelizumab_27w.pdb 12 0 0 0 Camrelizumab_27w.pdb 1374.55 
+Camrelizumab_19w.pdb Camrelizumab_19w.pdb 446.311 -49.3921 -48.2076 -11.8451 506.364 0 0 0 0 0 Camrelizumab_19w.pdb 15 0 0 0 Camrelizumab_19w.pdb 1500.02 
+Camrelizumab_178w.pdb Camrelizumab_178w.pdb 596.246 -55.2188 -54.4938 -7.24981 657.989 0 0 0 0 0 Camrelizumab_178w.pdb 17 0 0 0 Camrelizumab_178w.pdb 1490.53 
+Camrelizumab_135w.pdb Camrelizumab_135w.pdb 541.889 -52.4158 -52.0163 -3.99452 597.9 0 0 0 0 0 Camrelizumab_135w.pdb 15 0 0 0 Camrelizumab_135w.pdb 1447.96 
+Camrelizumab_181w.pdb Camrelizumab_181w.pdb 544.49 -51.3558 -50.4514 -9.04367 603.985 0 0 0 0 0 Camrelizumab_181w.pdb 15 0 0 0 Camrelizumab_181w.pdb 1331.47 
+Camrelizumab_99w.pdb Camrelizumab_99w.pdb 580.274 -35.0141 -36.691 16.7688 600.196 0 0 0 0 0 Camrelizumab_99w.pdb 15 0 0 0 Camrelizumab_99w.pdb 1101.2 

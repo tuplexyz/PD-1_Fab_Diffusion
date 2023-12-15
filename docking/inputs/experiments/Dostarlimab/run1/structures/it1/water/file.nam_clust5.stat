@@ -1,0 +1,11 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Dostarlimab_80w.pdb Dostarlimab_80w.pdb 184.911 -77.7469 -63.7544 -139.925 388.591 0 0 0 0 0 Dostarlimab_80w.pdb 12 0 0 0 Dostarlimab_80w.pdb 1768.11 
+Dostarlimab_183w.pdb Dostarlimab_183w.pdb 325.367 -73.3513 -66.0575 -72.9376 464.362 0 0 0 0 0 Dostarlimab_183w.pdb 12 0 0 0 Dostarlimab_183w.pdb 1795.53 
+Dostarlimab_100w.pdb Dostarlimab_100w.pdb 307.896 -69.8099 -62.0796 -77.3029 447.279 0 0 0 0 0 Dostarlimab_100w.pdb 11 0 0 0 Dostarlimab_100w.pdb 1761.29 
+Dostarlimab_10w.pdb Dostarlimab_10w.pdb 301.058 -54.8463 -48.2957 -65.5057 414.859 0 0 0 0 0 Dostarlimab_10w.pdb 12 0 0 0 Dostarlimab_10w.pdb 1538.6 
+Dostarlimab_89w.pdb Dostarlimab_89w.pdb 313.918 -58.0865 -42.7989 -152.876 509.593 0 0 0 0 0 Dostarlimab_89w.pdb 14 0 0 0 Dostarlimab_89w.pdb 1661.48 
+Dostarlimab_16w.pdb Dostarlimab_16w.pdb 326.013 -47.6876 -38.9324 -87.5524 452.498 0 0 0 0 0 Dostarlimab_16w.pdb 12 0 0 0 Dostarlimab_16w.pdb 1556.77 
+Dostarlimab_198w.pdb Dostarlimab_198w.pdb 404.922 -53.6392 -40.8698 -127.694 573.486 0 0 0 0 0 Dostarlimab_198w.pdb 17 0 0 0 Dostarlimab_198w.pdb 1704.06 
+Dostarlimab_94w.pdb Dostarlimab_94w.pdb 436.767 -51.4961 -42.3997 -90.9643 570.131 0 0 0 0 0 Dostarlimab_94w.pdb 16 0 0 0 Dostarlimab_94w.pdb 1611.79 
+Dostarlimab_154w.pdb Dostarlimab_154w.pdb 446.496 -53.5934 -44.6883 -89.0512 580.235 0 0 0 0 0 Dostarlimab_154w.pdb 16 0 0 0 Dostarlimab_154w.pdb 1507.28 
+Dostarlimab_171w.pdb Dostarlimab_171w.pdb 422.844 -52.6 -41.0563 -115.437 579.338 0 0 0 0 0 Dostarlimab_171w.pdb 16 0 0 0 Dostarlimab_171w.pdb 1693.15 

@@ -1,0 +1,6 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Acrixolimab_188w.pdb Acrixolimab_188w.pdb 333.645 -59.1589 -35.3008 -238.581 607.527 0 0 0 0 0 Acrixolimab_188w.pdb 14 0 0 0 Acrixolimab_188w.pdb 1780.13 
+Acrixolimab_91w.pdb Acrixolimab_91w.pdb 289.461 -54.6851 -27.9142 -267.709 585.084 0 0 0 0 0 Acrixolimab_91w.pdb 14 0 0 0 Acrixolimab_91w.pdb 1776.88 
+Acrixolimab_110w.pdb Acrixolimab_110w.pdb 345.055 -59.9621 -36.8633 -230.988 612.906 0 0 0 0 0 Acrixolimab_110w.pdb 16 0 0 0 Acrixolimab_110w.pdb 1639.49 
+Acrixolimab_119w.pdb Acrixolimab_119w.pdb 389.93 -51.2051 -30.6912 -205.139 625.761 0 0 0 0 0 Acrixolimab_119w.pdb 17 0 0 0 Acrixolimab_119w.pdb 1855.53 
+Acrixolimab_126w.pdb Acrixolimab_126w.pdb 495.327 -57.1035 -36.6387 -204.648 736.613 0 0 0 0 0 Acrixolimab_126w.pdb 20 0 0 0 Acrixolimab_126w.pdb 1730.59 

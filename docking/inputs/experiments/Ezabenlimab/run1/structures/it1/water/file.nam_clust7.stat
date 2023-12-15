@@ -1,0 +1,8 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Ezabenlimab_111w.pdb Ezabenlimab_111w.pdb 292.726 -72.2884 -49.2902 -229.982 571.998 0 0 0 0 0 Ezabenlimab_111w.pdb 15 0 0 0 Ezabenlimab_111w.pdb 2079.55 
+Ezabenlimab_31w.pdb Ezabenlimab_31w.pdb 245.855 -64.6838 -45.2613 -194.225 485.341 0 0 0 0 0 Ezabenlimab_31w.pdb 14 0 0 0 Ezabenlimab_31w.pdb 1969.03 
+Ezabenlimab_91w.pdb Ezabenlimab_91w.pdb 323.678 -69.0615 -45.9867 -230.748 600.413 0 0 0 0 0 Ezabenlimab_91w.pdb 18 0 0 0 Ezabenlimab_91w.pdb 2079.33 
+Ezabenlimab_114w.pdb Ezabenlimab_114w.pdb 355.576 -63.7086 -44.8906 -188.18 588.646 0 0 0 0 0 Ezabenlimab_114w.pdb 15 0 0 0 Ezabenlimab_114w.pdb 1940.87 
+Ezabenlimab_178w.pdb Ezabenlimab_178w.pdb 420.426 -70.3223 -46.0497 -242.726 709.201 0 0 0 0 0 Ezabenlimab_178w.pdb 18 0 0 0 Ezabenlimab_178w.pdb 1983.54 
+Ezabenlimab_146w.pdb Ezabenlimab_146w.pdb 484.88 -53.3012 -36.9798 -163.214 685.074 0 0 0 0 0 Ezabenlimab_146w.pdb 19 0 0 0 Ezabenlimab_146w.pdb 1678.06 
+Ezabenlimab_197w.pdb Ezabenlimab_197w.pdb 576.396 -45.5632 -31.0983 -144.649 752.142 0 0 0 0 0 Ezabenlimab_197w.pdb 21 0 0 0 Ezabenlimab_197w.pdb 1625.61 

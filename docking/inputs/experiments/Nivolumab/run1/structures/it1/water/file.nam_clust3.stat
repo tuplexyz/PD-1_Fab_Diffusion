@@ -1,0 +1,17 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Nivolumab_61w.pdb Nivolumab_61w.pdb 60.9319 -77.9001 -57.6903 -202.098 320.72 0 0 0 0 0 Nivolumab_61w.pdb 9 0 0 0 Nivolumab_61w.pdb 1955.58 
+Nivolumab_131w.pdb Nivolumab_131w.pdb 116.711 -76.2538 -57.6764 -185.774 360.162 0 0 0 0 0 Nivolumab_131w.pdb 10 0 0 0 Nivolumab_131w.pdb 1974.37 
+Nivolumab_103w.pdb Nivolumab_103w.pdb 189.916 -75.5319 -58.5913 -169.406 417.913 0 0 0 0 0 Nivolumab_103w.pdb 13 0 0 0 Nivolumab_103w.pdb 1903.91 
+Nivolumab_38w.pdb Nivolumab_38w.pdb 141.447 -63.3042 -47.482 -158.222 347.152 0 0 0 0 0 Nivolumab_38w.pdb 10 0 0 0 Nivolumab_38w.pdb 1703.22 
+Nivolumab_117w.pdb Nivolumab_117w.pdb 190.402 -63.8779 -48.6194 -152.585 391.607 0 0 0 0 0 Nivolumab_117w.pdb 11 0 0 0 Nivolumab_117w.pdb 1776.71 
+Nivolumab_181w.pdb Nivolumab_181w.pdb 286.48 -69.9937 -56.7037 -132.9 476.084 0 0 0 0 0 Nivolumab_181w.pdb 13 0 0 0 Nivolumab_181w.pdb 1756.3 
+Nivolumab_150w.pdb Nivolumab_150w.pdb 229.799 -69.5483 -52.1187 -174.296 456.214 0 0 0 0 0 Nivolumab_150w.pdb 11 0 0 0 Nivolumab_150w.pdb 1640.9 
+Nivolumab_30w.pdb Nivolumab_30w.pdb 173.764 -63.0272 -47.1052 -159.22 380.09 0 0 0 0 0 Nivolumab_30w.pdb 12 0 0 0 Nivolumab_30w.pdb 1780.99 
+Nivolumab_122w.pdb Nivolumab_122w.pdb 221.773 -67.3614 -46.4474 -209.14 477.36 0 0 0 0 0 Nivolumab_122w.pdb 14 0 0 0 Nivolumab_122w.pdb 1922.28 
+Nivolumab_124w.pdb Nivolumab_124w.pdb 157.446 -58.7253 -36.1289 -225.964 419.539 0 0 0 0 0 Nivolumab_124w.pdb 11 0 0 0 Nivolumab_124w.pdb 1914.11 
+Nivolumab_184w.pdb Nivolumab_184w.pdb 279.618 -62.8087 -42.8995 -199.092 521.609 0 0 0 0 0 Nivolumab_184w.pdb 15 0 0 0 Nivolumab_184w.pdb 1800.79 
+Nivolumab_191w.pdb Nivolumab_191w.pdb 217.544 -54.4697 -39.2102 -152.595 409.349 0 0 0 0 0 Nivolumab_191w.pdb 10 0 0 0 Nivolumab_191w.pdb 1644.11 
+Nivolumab_180w.pdb Nivolumab_180w.pdb 185.842 -55.7948 -36.675 -191.198 413.715 0 0 0 0 0 Nivolumab_180w.pdb 12 0 0 0 Nivolumab_180w.pdb 1665.7 
+Nivolumab_157w.pdb Nivolumab_157w.pdb 265.816 -62.2837 -49.2157 -130.68 445.712 0 0 0 0 0 Nivolumab_157w.pdb 14 0 0 0 Nivolumab_157w.pdb 1798.05 
+Nivolumab_155w.pdb Nivolumab_155w.pdb 242.544 -57.922 -44.261 -136.61 423.415 0 0 0 0 0 Nivolumab_155w.pdb 12 0 0 0 Nivolumab_155w.pdb 1717.15 
+Nivolumab_143w.pdb Nivolumab_143w.pdb 281.681 -56.043 -38.4728 -175.702 495.856 0 0 0 0 0 Nivolumab_143w.pdb 14 0 0 0 Nivolumab_143w.pdb 1773.27 

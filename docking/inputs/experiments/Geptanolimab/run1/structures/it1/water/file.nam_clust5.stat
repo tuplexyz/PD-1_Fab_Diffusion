@@ -1,0 +1,13 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Geptanolimab_20w.pdb Geptanolimab_20w.pdb 103.048 -89.6054 -71.2129 -183.925 358.186 0 0 0 0 0 Geptanolimab_20w.pdb 9 0 0 0 Geptanolimab_20w.pdb 2172.69 
+Geptanolimab_89w.pdb Geptanolimab_89w.pdb 158.733 -89.1957 -69.4214 -197.743 425.897 0 0 0 0 0 Geptanolimab_89w.pdb 9 0 0 0 Geptanolimab_89w.pdb 2017.94 
+Geptanolimab_140w.pdb Geptanolimab_140w.pdb 299.868 -88.9085 -70.3178 -185.907 556.093 0 0 0 0 0 Geptanolimab_140w.pdb 15 0 0 0 Geptanolimab_140w.pdb 1917.13 
+Geptanolimab_3w.pdb Geptanolimab_3w.pdb 194.501 -73.5881 -59.8122 -137.759 392.072 0 0 0 0 0 Geptanolimab_3w.pdb 12 0 0 0 Geptanolimab_3w.pdb 1901.05 
+Geptanolimab_124w.pdb Geptanolimab_124w.pdb 311.718 -83.6959 -71.4611 -122.348 505.527 0 0 0 0 0 Geptanolimab_124w.pdb 12 0 0 0 Geptanolimab_124w.pdb 2018.92 
+Geptanolimab_104w.pdb Geptanolimab_104w.pdb 257.605 -80.8598 -64.3784 -164.814 486.798 0 0 0 0 0 Geptanolimab_104w.pdb 12 0 0 0 Geptanolimab_104w.pdb 1905.24 
+Geptanolimab_59w.pdb Geptanolimab_59w.pdb 245.18 -89.9504 -70.2129 -197.375 512.769 0 0 0 0 0 Geptanolimab_59w.pdb 14 0 0 0 Geptanolimab_59w.pdb 1880.43 
+Geptanolimab_166w.pdb Geptanolimab_166w.pdb 303.379 -80.311 -63.1383 -171.727 538.244 0 0 0 0 0 Geptanolimab_166w.pdb 13 0 0 0 Geptanolimab_166w.pdb 1803.05 
+Geptanolimab_153w.pdb Geptanolimab_153w.pdb 308.295 -84.234 -65.2104 -190.236 563.741 0 0 0 0 0 Geptanolimab_153w.pdb 13 0 0 0 Geptanolimab_153w.pdb 1899.12 
+Geptanolimab_94w.pdb Geptanolimab_94w.pdb 305.378 -77.0478 -63.6708 -133.77 502.819 0 0 0 0 0 Geptanolimab_94w.pdb 12 0 0 0 Geptanolimab_94w.pdb 1974.35 
+Geptanolimab_99w.pdb Geptanolimab_99w.pdb 343.428 -73.1567 -57.2086 -159.481 560.118 0 0 0 0 0 Geptanolimab_99w.pdb 15 0 0 0 Geptanolimab_99w.pdb 1891.01 
+Geptanolimab_132w.pdb Geptanolimab_132w.pdb 391.752 -75.8754 -63.2744 -126.01 581.037 0 0 0 0 0 Geptanolimab_132w.pdb 17 0 0 0 Geptanolimab_132w.pdb 1809.7 

@@ -1,0 +1,17 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Tislelizumab_38w.pdb Tislelizumab_38w.pdb 208.24 -62.9474 -45.8347 -171.127 425.202 0 0 0 0 0 Tislelizumab_38w.pdb 10 0 0 0 Tislelizumab_38w.pdb 1593.49 
+Tislelizumab_104w.pdb Tislelizumab_104w.pdb 317.717 -73.4135 -59.7103 -137.032 514.459 0 0 0 0 0 Tislelizumab_104w.pdb 14 0 0 0 Tislelizumab_104w.pdb 1852.58 
+Tislelizumab_54w.pdb Tislelizumab_54w.pdb 353.505 -70.5001 -57.3069 -131.932 542.744 0 0 0 0 0 Tislelizumab_54w.pdb 14 0 0 0 Tislelizumab_54w.pdb 1748.87 
+Tislelizumab_195w.pdb Tislelizumab_195w.pdb 436.18 -78.1251 -64.7247 -134.004 634.908 0 0 0 0 0 Tislelizumab_195w.pdb 18 0 0 0 Tislelizumab_195w.pdb 1986.69 
+Tislelizumab_109w.pdb Tislelizumab_109w.pdb 346.821 -63.361 -45.8032 -175.578 568.202 0 0 0 0 0 Tislelizumab_109w.pdb 15 0 0 0 Tislelizumab_109w.pdb 1898.86 
+Tislelizumab_116w.pdb Tislelizumab_116w.pdb 420.297 -71.9054 -61.0796 -108.258 589.635 0 0 0 0 0 Tislelizumab_116w.pdb 16 0 0 0 Tislelizumab_116w.pdb 1777.82 
+Tislelizumab_140w.pdb Tislelizumab_140w.pdb 389.556 -66.062 -52.318 -137.44 579.314 0 0 0 0 0 Tislelizumab_140w.pdb 16 0 0 0 Tislelizumab_140w.pdb 1817.15 
+Tislelizumab_114w.pdb Tislelizumab_114w.pdb 380.138 -65.2754 -50.8004 -144.75 575.688 0 0 0 0 0 Tislelizumab_114w.pdb 14 0 0 0 Tislelizumab_114w.pdb 1815.45 
+Tislelizumab_107w.pdb Tislelizumab_107w.pdb 473.118 -69.5051 -62.8552 -66.4991 602.473 0 0 0 0 0 Tislelizumab_107w.pdb 16 0 0 0 Tislelizumab_107w.pdb 1850.55 
+Tislelizumab_46w.pdb Tislelizumab_46w.pdb 331.757 -57.6459 -41.2713 -163.746 536.774 0 0 0 0 0 Tislelizumab_46w.pdb 14 0 0 0 Tislelizumab_46w.pdb 1521.52 
+Tislelizumab_146w.pdb Tislelizumab_146w.pdb 359.047 -59.6886 -46.8136 -128.75 534.611 0 0 0 0 0 Tislelizumab_146w.pdb 14 0 0 0 Tislelizumab_146w.pdb 1791.24 
+Tislelizumab_186w.pdb Tislelizumab_186w.pdb 473.034 -72.5104 -59.7691 -127.413 660.217 0 0 0 0 0 Tislelizumab_186w.pdb 17 0 0 0 Tislelizumab_186w.pdb 1829.01 
+Tislelizumab_91w.pdb Tislelizumab_91w.pdb 433.622 -61.2186 -48.8858 -123.328 605.836 0 0 0 0 0 Tislelizumab_91w.pdb 16 0 0 0 Tislelizumab_91w.pdb 1680.05 
+Tislelizumab_180w.pdb Tislelizumab_180w.pdb 505.356 -60.2455 -52.8409 -74.0456 632.242 0 0 0 0 0 Tislelizumab_180w.pdb 16 0 0 0 Tislelizumab_180w.pdb 1669.08 
+Tislelizumab_131w.pdb Tislelizumab_131w.pdb 384.879 -45.3818 -33.5458 -118.36 536.785 0 0 0 0 0 Tislelizumab_131w.pdb 12 0 0 0 Tislelizumab_131w.pdb 1330.78 
+Tislelizumab_129w.pdb Tislelizumab_129w.pdb 475.036 -47.5839 -34.173 -134.109 643.318 0 0 0 0 0 Tislelizumab_129w.pdb 18 0 0 0 Tislelizumab_129w.pdb 1506.56 

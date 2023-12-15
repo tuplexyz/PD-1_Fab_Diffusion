@@ -1,0 +1,24 @@
+module(filenames;)
+set message off echo off end
+evaluate ($count = 1)
+while ($count le 2000) loop main
+   evaluate (&filenames.bestfile_$count = "")
+   evaluate ($count = $count + 1)
+end loop main
+set message on echo on end
+evaluate (&filenames.bestfile_1="PREVIT:Tislelizumab_38w.pdb")
+evaluate (&filenames.bestfile_2="PREVIT:Tislelizumab_104w.pdb")
+evaluate (&filenames.bestfile_3="PREVIT:Tislelizumab_54w.pdb")
+evaluate (&filenames.bestfile_4="PREVIT:Tislelizumab_195w.pdb")
+evaluate (&filenames.bestfile_5="PREVIT:Tislelizumab_109w.pdb")
+evaluate (&filenames.bestfile_6="PREVIT:Tislelizumab_116w.pdb")
+evaluate (&filenames.bestfile_7="PREVIT:Tislelizumab_140w.pdb")
+evaluate (&filenames.bestfile_8="PREVIT:Tislelizumab_114w.pdb")
+evaluate (&filenames.bestfile_9="PREVIT:Tislelizumab_107w.pdb")
+evaluate (&filenames.bestfile_10="PREVIT:Tislelizumab_46w.pdb")
+evaluate (&filenames.bestfile_11="PREVIT:Tislelizumab_146w.pdb")
+evaluate (&filenames.bestfile_12="PREVIT:Tislelizumab_186w.pdb")
+evaluate (&filenames.bestfile_13="PREVIT:Tislelizumab_91w.pdb")
+evaluate (&filenames.bestfile_14="PREVIT:Tislelizumab_180w.pdb")
+evaluate (&filenames.bestfile_15="PREVIT:Tislelizumab_131w.pdb")
+evaluate (&filenames.bestfile_16="PREVIT:Tislelizumab_129w.pdb")

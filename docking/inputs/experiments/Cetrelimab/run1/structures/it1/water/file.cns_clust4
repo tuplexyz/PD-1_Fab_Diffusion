@@ -1,0 +1,27 @@
+module(filenames;)
+set message off echo off end
+evaluate ($count = 1)
+while ($count le 2000) loop main
+   evaluate (&filenames.bestfile_$count = "")
+   evaluate ($count = $count + 1)
+end loop main
+set message on echo on end
+evaluate (&filenames.bestfile_1="PREVIT:Cetrelimab_76w.pdb")
+evaluate (&filenames.bestfile_2="PREVIT:Cetrelimab_57w.pdb")
+evaluate (&filenames.bestfile_3="PREVIT:Cetrelimab_200w.pdb")
+evaluate (&filenames.bestfile_4="PREVIT:Cetrelimab_59w.pdb")
+evaluate (&filenames.bestfile_5="PREVIT:Cetrelimab_73w.pdb")
+evaluate (&filenames.bestfile_6="PREVIT:Cetrelimab_182w.pdb")
+evaluate (&filenames.bestfile_7="PREVIT:Cetrelimab_158w.pdb")
+evaluate (&filenames.bestfile_8="PREVIT:Cetrelimab_12w.pdb")
+evaluate (&filenames.bestfile_9="PREVIT:Cetrelimab_44w.pdb")
+evaluate (&filenames.bestfile_10="PREVIT:Cetrelimab_105w.pdb")
+evaluate (&filenames.bestfile_11="PREVIT:Cetrelimab_110w.pdb")
+evaluate (&filenames.bestfile_12="PREVIT:Cetrelimab_171w.pdb")
+evaluate (&filenames.bestfile_13="PREVIT:Cetrelimab_170w.pdb")
+evaluate (&filenames.bestfile_14="PREVIT:Cetrelimab_177w.pdb")
+evaluate (&filenames.bestfile_15="PREVIT:Cetrelimab_148w.pdb")
+evaluate (&filenames.bestfile_16="PREVIT:Cetrelimab_69w.pdb")
+evaluate (&filenames.bestfile_17="PREVIT:Cetrelimab_159w.pdb")
+evaluate (&filenames.bestfile_18="PREVIT:Cetrelimab_198w.pdb")
+evaluate (&filenames.bestfile_19="PREVIT:Cetrelimab_53w.pdb")

@@ -1,0 +1,26 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Acrixolimab_99w.pdb Acrixolimab_99w.pdb 98.6364 -107.305 -86.842 -204.625 390.103 0 0 0 0 0 Acrixolimab_99w.pdb 12 0 0 0 Acrixolimab_99w.pdb 2845.74 
+Acrixolimab_103w.pdb Acrixolimab_103w.pdb 76.5648 -101.793 -75.3098 -264.837 416.711 0 0 0 0 0 Acrixolimab_103w.pdb 14 0 0 0 Acrixolimab_103w.pdb 2864.08 
+Acrixolimab_28w.pdb Acrixolimab_28w.pdb -60.0529 -84.5978 -62.028 -225.698 227.673 0 0 0 0 0 Acrixolimab_28w.pdb 9 0 0 0 Acrixolimab_28w.pdb 2582.06 
+Acrixolimab_139w.pdb Acrixolimab_139w.pdb 92.4291 -97.7432 -70.3942 -273.49 436.313 0 0 0 0 0 Acrixolimab_139w.pdb 12 0 0 0 Acrixolimab_139w.pdb 2837.96 
+Acrixolimab_82w.pdb Acrixolimab_82w.pdb 110.747 -101.365 -80.4631 -209.019 400.229 0 0 0 0 0 Acrixolimab_82w.pdb 13 0 0 0 Acrixolimab_82w.pdb 2746.65 
+Acrixolimab_143w.pdb Acrixolimab_143w.pdb 106.114 -101.481 -78.1213 -233.598 417.834 0 0 0 0 0 Acrixolimab_143w.pdb 13 0 0 0 Acrixolimab_143w.pdb 2807.64 
+Acrixolimab_102w.pdb Acrixolimab_102w.pdb 150.615 -97.6134 -73.4901 -241.233 465.338 0 0 0 0 0 Acrixolimab_102w.pdb 13 0 0 0 Acrixolimab_102w.pdb 2827.85 
+Acrixolimab_171w.pdb Acrixolimab_171w.pdb 209.627 -105.371 -86.5743 -187.97 484.171 0 0 0 0 0 Acrixolimab_171w.pdb 15 0 0 0 Acrixolimab_171w.pdb 2912.58 
+Acrixolimab_78w.pdb Acrixolimab_78w.pdb 156.151 -89.0938 -72.3475 -167.463 395.962 0 0 0 0 0 Acrixolimab_78w.pdb 12 0 0 0 Acrixolimab_78w.pdb 2659.69 
+Acrixolimab_187w.pdb Acrixolimab_187w.pdb 140.668 -92.8026 -75.048 -177.546 393.262 0 0 0 0 0 Acrixolimab_187w.pdb 15 0 0 0 Acrixolimab_187w.pdb 2678.09 
+Acrixolimab_39w.pdb Acrixolimab_39w.pdb 78.9764 -83.5054 -61.7789 -217.265 358.021 0 0 0 0 0 Acrixolimab_39w.pdb 13 0 0 0 Acrixolimab_39w.pdb 2835.38 
+Acrixolimab_147w.pdb Acrixolimab_147w.pdb 187.448 -89.4604 -66.5353 -229.251 483.234 0 0 0 0 0 Acrixolimab_147w.pdb 16 0 0 0 Acrixolimab_147w.pdb 2903.97 
+Acrixolimab_177w.pdb Acrixolimab_177w.pdb 133.937 -92.9416 -72.7255 -202.161 408.824 0 0 0 0 0 Acrixolimab_177w.pdb 14 0 0 0 Acrixolimab_177w.pdb 2542.51 
+Acrixolimab_76w.pdb Acrixolimab_76w.pdb 129.506 -84.7111 -71.2478 -134.633 335.386 0 0 0 0 0 Acrixolimab_76w.pdb 11 0 0 0 Acrixolimab_76w.pdb 2742.79 
+Acrixolimab_190w.pdb Acrixolimab_190w.pdb 173.14 -86.1879 -71.2266 -149.613 393.98 0 0 0 0 0 Acrixolimab_190w.pdb 11 0 0 0 Acrixolimab_190w.pdb 2577.15 
+Acrixolimab_125w.pdb Acrixolimab_125w.pdb 139.499 -84.484 -64.7101 -197.739 401.949 0 0 0 0 0 Acrixolimab_125w.pdb 14 0 0 0 Acrixolimab_125w.pdb 2728.28 
+Acrixolimab_104w.pdb Acrixolimab_104w.pdb 117.239 -81.0051 -55.7091 -252.96 425.909 0 0 0 0 0 Acrixolimab_104w.pdb 11 0 0 0 Acrixolimab_104w.pdb 2293.38 
+Acrixolimab_97w.pdb Acrixolimab_97w.pdb 177.007 -84.0723 -66.4309 -176.414 419.851 0 0 0 0 0 Acrixolimab_97w.pdb 15 0 0 0 Acrixolimab_97w.pdb 2636.94 
+Acrixolimab_198w.pdb Acrixolimab_198w.pdb 306.451 -84.216 -67.4593 -167.567 541.478 0 0 0 0 0 Acrixolimab_198w.pdb 18 0 0 0 Acrixolimab_198w.pdb 2662.51 
+Acrixolimab_123w.pdb Acrixolimab_123w.pdb 199.738 -81.4443 -60.5936 -208.507 468.838 0 0 0 0 0 Acrixolimab_123w.pdb 12 0 0 0 Acrixolimab_123w.pdb 2487.99 
+Acrixolimab_183w.pdb Acrixolimab_183w.pdb 320.43 -85.8162 -70.0159 -158.003 548.449 0 0 0 0 0 Acrixolimab_183w.pdb 17 0 0 0 Acrixolimab_183w.pdb 2543.91 
+Acrixolimab_162w.pdb Acrixolimab_162w.pdb 206.217 -70.021 -43.5401 -264.809 514.566 0 0 0 0 0 Acrixolimab_162w.pdb 14 0 0 0 Acrixolimab_162w.pdb 2249.25 
+Acrixolimab_137w.pdb Acrixolimab_137w.pdb 312.005 -70.7778 -48.1077 -226.701 586.814 0 0 0 0 0 Acrixolimab_137w.pdb 16 0 0 0 Acrixolimab_137w.pdb 2198.65 
+Acrixolimab_140w.pdb Acrixolimab_140w.pdb 301.45 -73.2072 -49.6777 -235.295 586.423 0 0 0 0 0 Acrixolimab_140w.pdb 17 0 0 0 Acrixolimab_140w.pdb 2349.79 
+Acrixolimab_161w.pdb Acrixolimab_161w.pdb 329.802 -71.7846 -50.821 -209.636 590.259 0 0 0 0 0 Acrixolimab_161w.pdb 18 0 0 0 Acrixolimab_161w.pdb 2284.13 

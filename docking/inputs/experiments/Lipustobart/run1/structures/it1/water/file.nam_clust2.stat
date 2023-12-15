@@ -1,0 +1,14 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Lipustobart_84w.pdb Lipustobart_84w.pdb 200.03 -75.2153 -55.9831 -192.322 448.335 0 0 0 0 0 Lipustobart_84w.pdb 12 0 0 0 Lipustobart_84w.pdb 1717.9 
+Lipustobart_198w.pdb Lipustobart_198w.pdb 377.333 -81.2011 -65.3438 -158.573 601.25 0 0 0 0 0 Lipustobart_198w.pdb 15 0 0 0 Lipustobart_198w.pdb 1715.64 
+Lipustobart_165w.pdb Lipustobart_165w.pdb 378.264 -77.2826 -64.1353 -131.473 573.872 0 0 0 0 0 Lipustobart_165w.pdb 13 0 0 0 Lipustobart_165w.pdb 1645.04 
+Lipustobart_65w.pdb Lipustobart_65w.pdb 307.336 -73.9109 -58.4433 -154.676 520.455 0 0 0 0 0 Lipustobart_65w.pdb 12 0 0 0 Lipustobart_65w.pdb 1531.09 
+Lipustobart_131w.pdb Lipustobart_131w.pdb 312.321 -74.9185 -54.6069 -203.116 570.044 0 0 0 0 0 Lipustobart_131w.pdb 14 0 0 0 Lipustobart_131w.pdb 1636.84 
+Lipustobart_174w.pdb Lipustobart_174w.pdb 386.6 -72.6158 -52.3509 -202.649 641.6 0 0 0 0 0 Lipustobart_174w.pdb 17 0 0 0 Lipustobart_174w.pdb 1655.08 
+Lipustobart_152w.pdb Lipustobart_152w.pdb 429.599 -62.7378 -50.485 -122.528 602.612 0 0 0 0 0 Lipustobart_152w.pdb 16 0 0 0 Lipustobart_152w.pdb 1729.57 
+Lipustobart_179w.pdb Lipustobart_179w.pdb 457.349 -75.1003 -57.7072 -173.931 688.988 0 0 0 0 0 Lipustobart_179w.pdb 18 0 0 0 Lipustobart_179w.pdb 1575.96 
+Lipustobart_109w.pdb Lipustobart_109w.pdb 381.463 -68.8612 -50.4567 -184.045 615.965 0 0 0 0 0 Lipustobart_109w.pdb 16 0 0 0 Lipustobart_109w.pdb 1565.57 
+Lipustobart_132w.pdb Lipustobart_132w.pdb 376.029 -49.241 -36.9197 -123.213 536.162 0 0 0 0 0 Lipustobart_132w.pdb 14 0 0 0 Lipustobart_132w.pdb 1588.38 
+Lipustobart_192w.pdb Lipustobart_192w.pdb 432.164 -67.2977 -53.6132 -136.845 622.622 0 0 0 0 0 Lipustobart_192w.pdb 16 0 0 0 Lipustobart_192w.pdb 1681.05 
+Lipustobart_185w.pdb Lipustobart_185w.pdb 434.027 -61.7538 -47.1239 -146.299 627.45 0 0 0 0 0 Lipustobart_185w.pdb 16 0 0 0 Lipustobart_185w.pdb 1608.23 
+Lipustobart_182w.pdb Lipustobart_182w.pdb 528.102 -59.1175 -47.2622 -118.553 693.918 0 0 0 0 0 Lipustobart_182w.pdb 17 0 0 0 Lipustobart_182w.pdb 1411.71 

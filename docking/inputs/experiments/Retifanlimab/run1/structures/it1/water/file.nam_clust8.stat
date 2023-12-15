@@ -1,0 +1,6 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Retifanlimab_48w.pdb Retifanlimab_48w.pdb 434.462 -65.8075 -55.4144 -103.931 593.808 0 0 0 0 0 Retifanlimab_48w.pdb 16 0 0 0 Retifanlimab_48w.pdb 1822.01 
+Retifanlimab_30w.pdb Retifanlimab_30w.pdb 409.893 -62.8883 -53.7376 -91.5073 555.138 0 0 0 0 0 Retifanlimab_30w.pdb 14 0 0 0 Retifanlimab_30w.pdb 1715.69 
+Retifanlimab_36w.pdb Retifanlimab_36w.pdb 497.846 -55.3257 -42.512 -128.137 668.496 0 0 0 0 0 Retifanlimab_36w.pdb 18 0 0 0 Retifanlimab_36w.pdb 1763.69 
+Retifanlimab_156w.pdb Retifanlimab_156w.pdb 571.981 -62.6378 -44.2341 -184.037 800.251 0 0 0 0 0 Retifanlimab_156w.pdb 22 0 0 0 Retifanlimab_156w.pdb 1788.98 
+Retifanlimab_38w.pdb Retifanlimab_38w.pdb 519.257 -45.9805 -37.1595 -88.2096 644.626 0 0 0 0 0 Retifanlimab_38w.pdb 17 0 0 0 Retifanlimab_38w.pdb 1565.17 

@@ -1,0 +1,14 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Retifanlimab_37w.pdb Retifanlimab_37w.pdb 404.857 -69.523 -56.9627 -125.603 587.422 0 0 0 0 0 Retifanlimab_37w.pdb 16 0 0 0 Retifanlimab_37w.pdb 1949.31 
+Retifanlimab_22w.pdb Retifanlimab_22w.pdb 426.159 -58.0607 -49.3612 -86.9952 562.516 0 0 0 0 0 Retifanlimab_22w.pdb 14 0 0 0 Retifanlimab_22w.pdb 1778.89 
+Retifanlimab_46w.pdb Retifanlimab_46w.pdb 404.907 -60.7426 -51.8519 -88.9067 545.666 0 0 0 0 0 Retifanlimab_46w.pdb 14 0 0 0 Retifanlimab_46w.pdb 1924.42 
+Retifanlimab_100w.pdb Retifanlimab_100w.pdb 498.607 -55.1528 -47.621 -75.3179 621.546 0 0 0 0 0 Retifanlimab_100w.pdb 17 0 0 0 Retifanlimab_100w.pdb 1823.25 
+Retifanlimab_159w.pdb Retifanlimab_159w.pdb 542.907 -66.1538 -56.1329 -100.209 699.249 0 0 0 0 0 Retifanlimab_159w.pdb 17 0 0 0 Retifanlimab_159w.pdb 1832.15 
+Retifanlimab_74w.pdb Retifanlimab_74w.pdb 521.605 -65.3747 -52.8315 -125.432 699.868 0 0 0 0 0 Retifanlimab_74w.pdb 19 0 0 0 Retifanlimab_74w.pdb 1825.04 
+Retifanlimab_73w.pdb Retifanlimab_73w.pdb 542.888 -56.8509 -51.3167 -55.3422 649.547 0 0 0 0 0 Retifanlimab_73w.pdb 15 0 0 0 Retifanlimab_73w.pdb 1749.19 
+Retifanlimab_142w.pdb Retifanlimab_142w.pdb 548.889 -57.9555 -47.3896 -105.659 701.938 0 0 0 0 0 Retifanlimab_142w.pdb 18 0 0 0 Retifanlimab_142w.pdb 1836.31 
+Retifanlimab_175w.pdb Retifanlimab_175w.pdb 489.866 -57.2518 -45.824 -114.278 649.968 0 0 0 0 0 Retifanlimab_175w.pdb 17 0 0 0 Retifanlimab_175w.pdb 1828.28 
+Retifanlimab_54w.pdb Retifanlimab_54w.pdb 611.555 -52.5177 -48.1668 -43.509 703.231 0 0 0 0 0 Retifanlimab_54w.pdb 18 0 0 0 Retifanlimab_54w.pdb 1681.78 
+Retifanlimab_104w.pdb Retifanlimab_104w.pdb 566.958 -54.0423 -44.6873 -93.55 705.195 0 0 0 0 0 Retifanlimab_104w.pdb 18 0 0 0 Retifanlimab_104w.pdb 1767.45 
+Retifanlimab_174w.pdb Retifanlimab_174w.pdb 604.824 -52.9432 -47.6576 -52.8563 705.338 0 0 0 0 0 Retifanlimab_174w.pdb 18 0 0 0 Retifanlimab_174w.pdb 1762.35 
+Retifanlimab_177w.pdb Retifanlimab_177w.pdb 633.867 -47.5986 -41.1809 -64.1769 739.225 0 0 0 0 0 Retifanlimab_177w.pdb 19 0 0 0 Retifanlimab_177w.pdb 1657.14 

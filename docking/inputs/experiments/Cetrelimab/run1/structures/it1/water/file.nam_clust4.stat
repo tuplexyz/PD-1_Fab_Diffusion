@@ -1,0 +1,20 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Cetrelimab_76w.pdb Cetrelimab_76w.pdb 411.745 -69.7166 -61.6343 -80.8228 554.202 0 0 0 0 0 Cetrelimab_76w.pdb 16 0 0 0 Cetrelimab_76w.pdb 1896.57 
+Cetrelimab_57w.pdb Cetrelimab_57w.pdb 456.329 -69.7634 -60.6458 -91.176 608.151 0 0 0 0 0 Cetrelimab_57w.pdb 15 0 0 0 Cetrelimab_57w.pdb 1816.41 
+Cetrelimab_200w.pdb Cetrelimab_200w.pdb 432.449 -73.2327 -64.0764 -91.5634 588.089 0 0 0 0 0 Cetrelimab_200w.pdb 16 0 0 0 Cetrelimab_200w.pdb 1825.35 
+Cetrelimab_59w.pdb Cetrelimab_59w.pdb 377.18 -64.6492 -54.611 -100.382 532.173 0 0 0 0 0 Cetrelimab_59w.pdb 14 0 0 0 Cetrelimab_59w.pdb 1833.6 
+Cetrelimab_73w.pdb Cetrelimab_73w.pdb 417.12 -74.8885 -58.7944 -160.941 636.856 0 0 0 0 0 Cetrelimab_73w.pdb 18 0 0 0 Cetrelimab_73w.pdb 1886.07 
+Cetrelimab_182w.pdb Cetrelimab_182w.pdb 471.468 -71.904 -63.3086 -85.9542 620.731 0 0 0 0 0 Cetrelimab_182w.pdb 19 0 0 0 Cetrelimab_182w.pdb 1923.21 
+Cetrelimab_158w.pdb Cetrelimab_158w.pdb 441.864 -76.458 -65.162 -112.96 619.986 0 0 0 0 0 Cetrelimab_158w.pdb 16 0 0 0 Cetrelimab_158w.pdb 1853.2 
+Cetrelimab_12w.pdb Cetrelimab_12w.pdb 285.64 -59.5926 -46.0328 -135.598 467.271 0 0 0 0 0 Cetrelimab_12w.pdb 14 0 0 0 Cetrelimab_12w.pdb 1709.42 
+Cetrelimab_44w.pdb Cetrelimab_44w.pdb 359.677 -68.6724 -59.2274 -94.4499 513.354 0 0 0 0 0 Cetrelimab_44w.pdb 14 0 0 0 Cetrelimab_44w.pdb 1835.31 
+Cetrelimab_105w.pdb Cetrelimab_105w.pdb 457.171 -68.4008 -59.6457 -87.5513 604.368 0 0 0 0 0 Cetrelimab_105w.pdb 17 0 0 0 Cetrelimab_105w.pdb 1910.28 
+Cetrelimab_110w.pdb Cetrelimab_110w.pdb 423.715 -62.4595 -53.2162 -92.4331 569.365 0 0 0 0 0 Cetrelimab_110w.pdb 16 0 0 0 Cetrelimab_110w.pdb 1793.99 
+Cetrelimab_171w.pdb Cetrelimab_171w.pdb 391.189 -66.4964 -54.7467 -117.497 563.433 0 0 0 0 0 Cetrelimab_171w.pdb 17 0 0 0 Cetrelimab_171w.pdb 1820.22 
+Cetrelimab_170w.pdb Cetrelimab_170w.pdb 458.761 -68.1281 -58.381 -97.4705 614.612 0 0 0 0 0 Cetrelimab_170w.pdb 16 0 0 0 Cetrelimab_170w.pdb 1831.39 
+Cetrelimab_177w.pdb Cetrelimab_177w.pdb 488.009 -68.2941 -59.3538 -89.403 636.766 0 0 0 0 0 Cetrelimab_177w.pdb 19 0 0 0 Cetrelimab_177w.pdb 1827.43 
+Cetrelimab_148w.pdb Cetrelimab_148w.pdb 476.029 -63.7941 -54.0134 -97.8074 627.85 0 0 0 0 0 Cetrelimab_148w.pdb 16 0 0 0 Cetrelimab_148w.pdb 1847.26 
+Cetrelimab_69w.pdb Cetrelimab_69w.pdb 391.903 -59.7179 -51.0573 -86.606 529.567 0 0 0 0 0 Cetrelimab_69w.pdb 14 0 0 0 Cetrelimab_69w.pdb 1664.07 
+Cetrelimab_159w.pdb Cetrelimab_159w.pdb 428.145 -62.2853 -50.0228 -122.625 600.793 0 0 0 0 0 Cetrelimab_159w.pdb 17 0 0 0 Cetrelimab_159w.pdb 1802.1 
+Cetrelimab_198w.pdb Cetrelimab_198w.pdb 470.601 -63.1606 -54.853 -83.076 608.53 0 0 0 0 0 Cetrelimab_198w.pdb 15 0 0 0 Cetrelimab_198w.pdb 1797.16 
+Cetrelimab_53w.pdb Cetrelimab_53w.pdb 508.239 -60.7118 -52.926 -77.8578 639.023 0 0 0 0 0 Cetrelimab_53w.pdb 18 0 0 0 Cetrelimab_53w.pdb 1773.86 

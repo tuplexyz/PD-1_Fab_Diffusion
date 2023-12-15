@@ -1,0 +1,5 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Cemiplimab_30w.pdb Cemiplimab_30w.pdb 308.593 -84.6914 -73.0497 -116.417 498.06 0 0 0 0 0 Cemiplimab_30w.pdb 13 0 0 0 Cemiplimab_30w.pdb 1945.64 
+Cemiplimab_24w.pdb Cemiplimab_24w.pdb 298.171 -74.002 -59.0827 -149.193 506.446 0 0 0 0 0 Cemiplimab_24w.pdb 14 0 0 0 Cemiplimab_24w.pdb 1926.07 
+Cemiplimab_18w.pdb Cemiplimab_18w.pdb 239.526 -56.321 -41.6026 -147.184 428.312 0 0 0 0 0 Cemiplimab_18w.pdb 11 0 0 0 Cemiplimab_18w.pdb 1828.67 
+Cemiplimab_63w.pdb Cemiplimab_63w.pdb 322.973 -59.0938 -48.7764 -103.174 474.923 0 0 0 0 0 Cemiplimab_63w.pdb 13 0 0 0 Cemiplimab_63w.pdb 1835 

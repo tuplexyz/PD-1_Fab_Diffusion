@@ -1,0 +1,13 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Camrelizumab_59w.pdb Camrelizumab_59w.pdb 288.12 -54.1549 -47.176 -69.7891 405.085 0 0 0 0 0 Camrelizumab_59w.pdb 11 0 0 0 Camrelizumab_59w.pdb 1813.72 
+Camrelizumab_63w.pdb Camrelizumab_63w.pdb 352.782 -57.9988 -50.4108 -75.8797 479.072 0 0 0 0 0 Camrelizumab_63w.pdb 13 0 0 0 Camrelizumab_63w.pdb 1709.17 
+Camrelizumab_57w.pdb Camrelizumab_57w.pdb 358.963 -60.0393 -52.7182 -73.2111 484.892 0 0 0 0 0 Camrelizumab_57w.pdb 13 0 0 0 Camrelizumab_57w.pdb 1768.55 
+Camrelizumab_115w.pdb Camrelizumab_115w.pdb 379.072 -60.8756 -53.879 -69.9663 502.917 0 0 0 0 0 Camrelizumab_115w.pdb 12 0 0 0 Camrelizumab_115w.pdb 1688.44 
+Camrelizumab_117w.pdb Camrelizumab_117w.pdb 333.361 -57.7446 -46.1826 -115.62 495.164 0 0 0 0 0 Camrelizumab_117w.pdb 15 0 0 0 Camrelizumab_117w.pdb 1943.43 
+Camrelizumab_64w.pdb Camrelizumab_64w.pdb 347.176 -48.8691 -38.8313 -100.378 486.385 0 0 0 0 0 Camrelizumab_64w.pdb 15 0 0 0 Camrelizumab_64w.pdb 1778.35 
+Camrelizumab_199w.pdb Camrelizumab_199w.pdb 377.307 -54.8674 -44.9899 -98.7753 521.072 0 0 0 0 0 Camrelizumab_199w.pdb 13 0 0 0 Camrelizumab_199w.pdb 1700.87 
+Camrelizumab_55w.pdb Camrelizumab_55w.pdb 353.481 -47.9934 -38.631 -93.6239 485.736 0 0 0 0 0 Camrelizumab_55w.pdb 13 0 0 0 Camrelizumab_55w.pdb 1734.19 
+Camrelizumab_108w.pdb Camrelizumab_108w.pdb 416.705 -47.2992 -42.8956 -44.036 503.637 0 0 0 0 0 Camrelizumab_108w.pdb 13 0 0 0 Camrelizumab_108w.pdb 1695.74 
+Camrelizumab_122w.pdb Camrelizumab_122w.pdb 407.195 -50.1098 -40.3839 -97.2595 544.838 0 0 0 0 0 Camrelizumab_122w.pdb 14 0 0 0 Camrelizumab_122w.pdb 1720.07 
+Camrelizumab_84w.pdb Camrelizumab_84w.pdb 457.013 -54.4331 -48.8616 -55.7151 561.59 0 0 0 0 0 Camrelizumab_84w.pdb 15 0 0 0 Camrelizumab_84w.pdb 1691.1 
+Camrelizumab_89w.pdb Camrelizumab_89w.pdb 323.727 -41.116 -30.9977 -101.183 455.908 0 0 0 0 0 Camrelizumab_89w.pdb 12 0 0 0 Camrelizumab_89w.pdb 1590.32 

@@ -1,0 +1,28 @@
+module(filenames;)
+set message off echo off end
+evaluate ($count = 1)
+while ($count le 2000) loop main
+   evaluate (&filenames.bestfile_$count = "")
+   evaluate ($count = $count + 1)
+end loop main
+set message on echo on end
+evaluate (&filenames.bestfile_1="PREVIT:Ezabenlimab_92w.pdb")
+evaluate (&filenames.bestfile_2="PREVIT:Ezabenlimab_150w.pdb")
+evaluate (&filenames.bestfile_3="PREVIT:Ezabenlimab_151w.pdb")
+evaluate (&filenames.bestfile_4="PREVIT:Ezabenlimab_125w.pdb")
+evaluate (&filenames.bestfile_5="PREVIT:Ezabenlimab_69w.pdb")
+evaluate (&filenames.bestfile_6="PREVIT:Ezabenlimab_49w.pdb")
+evaluate (&filenames.bestfile_7="PREVIT:Ezabenlimab_145w.pdb")
+evaluate (&filenames.bestfile_8="PREVIT:Ezabenlimab_81w.pdb")
+evaluate (&filenames.bestfile_9="PREVIT:Ezabenlimab_174w.pdb")
+evaluate (&filenames.bestfile_10="PREVIT:Ezabenlimab_196w.pdb")
+evaluate (&filenames.bestfile_11="PREVIT:Ezabenlimab_128w.pdb")
+evaluate (&filenames.bestfile_12="PREVIT:Ezabenlimab_64w.pdb")
+evaluate (&filenames.bestfile_13="PREVIT:Ezabenlimab_118w.pdb")
+evaluate (&filenames.bestfile_14="PREVIT:Ezabenlimab_115w.pdb")
+evaluate (&filenames.bestfile_15="PREVIT:Ezabenlimab_90w.pdb")
+evaluate (&filenames.bestfile_16="PREVIT:Ezabenlimab_50w.pdb")
+evaluate (&filenames.bestfile_17="PREVIT:Ezabenlimab_144w.pdb")
+evaluate (&filenames.bestfile_18="PREVIT:Ezabenlimab_158w.pdb")
+evaluate (&filenames.bestfile_19="PREVIT:Ezabenlimab_126w.pdb")
+evaluate (&filenames.bestfile_20="PREVIT:Ezabenlimab_176w.pdb")

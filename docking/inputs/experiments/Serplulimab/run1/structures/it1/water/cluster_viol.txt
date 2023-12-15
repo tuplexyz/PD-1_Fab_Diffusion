@@ -1,0 +1,4 @@
+#Cluster #AIRviol sd #dihedviol sd #Coupviol sd #Saniviol sd #Veanviol sd #Daniviol sd
+file.nam_clust1    14.14     2.32     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    0.000    0.000 
+file.nam_clust2    14.25     1.71     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    0.000    0.000 
+file.nam_clust3    10.20     2.64     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    0.000    0.000 

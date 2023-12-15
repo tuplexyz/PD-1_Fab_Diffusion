@@ -1,0 +1,14 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Perenostobart_36w.pdb Perenostobart_36w.pdb 380.973 -74.0507 -59.4414 -146.093 586.507 0 0 0 0 0 Perenostobart_36w.pdb 15 0 0 0 Perenostobart_36w.pdb 1703.95 
+Perenostobart_89w.pdb Perenostobart_89w.pdb 469.716 -75.1717 -59.1302 -160.415 689.262 0 0 0 0 0 Perenostobart_89w.pdb 17 0 0 0 Perenostobart_89w.pdb 1730.73 
+Perenostobart_11w.pdb Perenostobart_11w.pdb 402.517 -72.0893 -59.0786 -130.107 591.702 0 0 0 0 0 Perenostobart_11w.pdb 15 0 0 0 Perenostobart_11w.pdb 1844.54 
+Perenostobart_34w.pdb Perenostobart_34w.pdb 455.171 -68.8762 -57.7394 -111.368 624.279 0 0 0 0 0 Perenostobart_34w.pdb 16 0 0 0 Perenostobart_34w.pdb 1829.22 
+Perenostobart_62w.pdb Perenostobart_62w.pdb 413.953 -64.9484 -57.5372 -74.1124 545.602 0 0 0 0 0 Perenostobart_62w.pdb 14 0 0 0 Perenostobart_62w.pdb 1872.36 
+Perenostobart_134w.pdb Perenostobart_134w.pdb 493.927 -63.76 -53.4756 -102.844 650.247 0 0 0 0 0 Perenostobart_134w.pdb 18 0 0 0 Perenostobart_134w.pdb 1874.2 
+Perenostobart_64w.pdb Perenostobart_64w.pdb 554.592 -60.8712 -50.268 -106.032 710.892 0 0 0 0 0 Perenostobart_64w.pdb 16 0 0 0 Perenostobart_64w.pdb 1598.08 
+Perenostobart_178w.pdb Perenostobart_178w.pdb 540.843 -60.1005 -50.6114 -94.8906 686.345 0 0 0 0 0 Perenostobart_178w.pdb 17 0 0 0 Perenostobart_178w.pdb 1715.49 
+Perenostobart_50w.pdb Perenostobart_50w.pdb 466.595 -51.6009 -40.4852 -111.157 618.238 0 0 0 0 0 Perenostobart_50w.pdb 15 0 0 0 Perenostobart_50w.pdb 1724.48 
+Perenostobart_38w.pdb Perenostobart_38w.pdb 421.827 -39.4751 -23.2193 -162.558 607.604 0 0 0 0 0 Perenostobart_38w.pdb 17 0 0 0 Perenostobart_38w.pdb 1398.24 
+Perenostobart_124w.pdb Perenostobart_124w.pdb 636.758 -61.3022 -52.3586 -89.4359 778.553 0 0 0 0 0 Perenostobart_124w.pdb 20 0 0 0 Perenostobart_124w.pdb 1603.5 
+Perenostobart_146w.pdb Perenostobart_146w.pdb 615.556 -43.8886 -29.4095 -144.791 789.757 0 0 0 0 0 Perenostobart_146w.pdb 21 0 0 0 Perenostobart_146w.pdb 1458.81 
+Perenostobart_137w.pdb Perenostobart_137w.pdb 649.604 -45.5948 -33.8664 -117.284 800.754 0 0 0 0 0 Perenostobart_137w.pdb 21 0 0 0 Perenostobart_137w.pdb 1503.41 

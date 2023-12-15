@@ -1,0 +1,25 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Pimivalimab_11w.pdb Pimivalimab_11w.pdb 156.533 -76.9122 -53.917 -229.952 440.403 0 0 0 0 0 Pimivalimab_11w.pdb 13 0 0 0 Pimivalimab_11w.pdb 1767.29 
+Pimivalimab_166w.pdb Pimivalimab_166w.pdb 273.665 -76.8515 -54.2208 -226.307 554.193 0 0 0 0 0 Pimivalimab_166w.pdb 15 0 0 0 Pimivalimab_166w.pdb 1842.98 
+Pimivalimab_26w.pdb Pimivalimab_26w.pdb 190.881 -71.1831 -48.5537 -226.294 465.729 0 0 0 0 0 Pimivalimab_26w.pdb 12 0 0 0 Pimivalimab_26w.pdb 1824.04 
+Pimivalimab_48w.pdb Pimivalimab_48w.pdb 151.765 -66.4926 -40.5537 -259.389 451.708 0 0 0 0 0 Pimivalimab_48w.pdb 13 0 0 0 Pimivalimab_48w.pdb 1754.93 
+Pimivalimab_31w.pdb Pimivalimab_31w.pdb 249.895 -63.5869 -43.1317 -204.552 497.579 0 0 0 0 0 Pimivalimab_31w.pdb 12 0 0 0 Pimivalimab_31w.pdb 1757.2 
+Pimivalimab_143w.pdb Pimivalimab_143w.pdb 279.374 -72.5056 -49.3717 -231.339 560.085 0 0 0 0 0 Pimivalimab_143w.pdb 15 0 0 0 Pimivalimab_143w.pdb 1945.64 
+Pimivalimab_34w.pdb Pimivalimab_34w.pdb 248.09 -66.357 -40.9101 -254.469 543.469 0 0 0 0 0 Pimivalimab_34w.pdb 16 0 0 0 Pimivalimab_34w.pdb 1851.97 
+Pimivalimab_129w.pdb Pimivalimab_129w.pdb 227.505 -68.3909 -45.6358 -227.551 500.691 0 0 0 0 0 Pimivalimab_129w.pdb 14 0 0 0 Pimivalimab_129w.pdb 1814.23 
+Pimivalimab_29w.pdb Pimivalimab_29w.pdb 282.228 -66.7473 -44.8075 -219.398 546.433 0 0 0 0 0 Pimivalimab_29w.pdb 15 0 0 0 Pimivalimab_29w.pdb 1763.94 
+Pimivalimab_44w.pdb Pimivalimab_44w.pdb 260.315 -62.9721 -43.2375 -197.346 500.899 0 0 0 0 0 Pimivalimab_44w.pdb 15 0 0 0 Pimivalimab_44w.pdb 1855.57 
+Pimivalimab_165w.pdb Pimivalimab_165w.pdb 215.503 -64.0394 -38.6501 -253.893 508.046 0 0 0 0 0 Pimivalimab_165w.pdb 15 0 0 0 Pimivalimab_165w.pdb 1734.02 
+Pimivalimab_20w.pdb Pimivalimab_20w.pdb 286.878 -63.1321 -51.4251 -117.07 455.373 0 0 0 0 0 Pimivalimab_20w.pdb 13 0 0 0 Pimivalimab_20w.pdb 1675.43 
+Pimivalimab_121w.pdb Pimivalimab_121w.pdb 306.417 -69.5325 -50.6215 -189.11 546.149 0 0 0 0 0 Pimivalimab_121w.pdb 15 0 0 0 Pimivalimab_121w.pdb 1734.67 
+Pimivalimab_51w.pdb Pimivalimab_51w.pdb 271.651 -67.7168 -47.5457 -201.711 520.908 0 0 0 0 0 Pimivalimab_51w.pdb 13 0 0 0 Pimivalimab_51w.pdb 1791.16 
+Pimivalimab_7w.pdb Pimivalimab_7w.pdb 208.037 -55.8694 -41.1192 -147.502 396.658 0 0 0 0 0 Pimivalimab_7w.pdb 10 0 0 0 Pimivalimab_7w.pdb 1668.24 
+Pimivalimab_52w.pdb Pimivalimab_52w.pdb 284.602 -64.4335 -46.4383 -179.952 510.993 0 0 0 0 0 Pimivalimab_52w.pdb 13 0 0 0 Pimivalimab_52w.pdb 1817.77 
+Pimivalimab_97w.pdb Pimivalimab_97w.pdb 286.83 -51.7841 -37.973 -138.111 462.913 0 0 0 0 0 Pimivalimab_97w.pdb 11 0 0 0 Pimivalimab_97w.pdb 1665.17 
+Pimivalimab_127w.pdb Pimivalimab_127w.pdb 354.348 -66.4469 -48.9186 -175.283 578.55 0 0 0 0 0 Pimivalimab_127w.pdb 13 0 0 0 Pimivalimab_127w.pdb 1702.69 
+Pimivalimab_60w.pdb Pimivalimab_60w.pdb 352.679 -47.8358 -34.6675 -131.683 519.029 0 0 0 0 0 Pimivalimab_60w.pdb 16 0 0 0 Pimivalimab_60w.pdb 1775.44 
+Pimivalimab_24w.pdb Pimivalimab_24w.pdb 320.644 -53.1456 -34.9766 -181.69 537.311 0 0 0 0 0 Pimivalimab_24w.pdb 16 0 0 0 Pimivalimab_24w.pdb 1540.12 
+Pimivalimab_162w.pdb Pimivalimab_162w.pdb 393.336 -52.2348 -36.7163 -155.185 585.237 0 0 0 0 0 Pimivalimab_162w.pdb 16 0 0 0 Pimivalimab_162w.pdb 1682.2 
+Pimivalimab_125w.pdb Pimivalimab_125w.pdb 348.08 -57.2132 -33.1407 -240.725 621.945 0 0 0 0 0 Pimivalimab_125w.pdb 18 0 0 0 Pimivalimab_125w.pdb 1655.46 
+Pimivalimab_30w.pdb Pimivalimab_30w.pdb 346.357 -46.5714 -32.1233 -144.481 522.962 0 0 0 0 0 Pimivalimab_30w.pdb 15 0 0 0 Pimivalimab_30w.pdb 1636.67 
+Pimivalimab_120w.pdb Pimivalimab_120w.pdb 408.507 -49.6662 -32.3122 -173.54 614.36 0 0 0 0 0 Pimivalimab_120w.pdb 19 0 0 0 Pimivalimab_120w.pdb 1734.2 

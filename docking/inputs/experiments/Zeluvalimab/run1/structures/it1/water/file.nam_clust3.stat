@@ -1,0 +1,15 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Zeluvalimab_68w.pdb Zeluvalimab_68w.pdb 381.694 -61.9464 -51.8846 -100.618 534.197 0 0 0 0 0 Zeluvalimab_68w.pdb 16 0 0 0 Zeluvalimab_68w.pdb 1709.91 
+Zeluvalimab_35w.pdb Zeluvalimab_35w.pdb 319.608 -58.2825 -47.7278 -105.547 472.883 0 0 0 0 0 Zeluvalimab_35w.pdb 13 0 0 0 Zeluvalimab_35w.pdb 1576.67 
+Zeluvalimab_193w.pdb Zeluvalimab_193w.pdb 413.468 -62.8392 -50.9809 -118.583 583.031 0 0 0 0 0 Zeluvalimab_193w.pdb 17 0 0 0 Zeluvalimab_193w.pdb 1757.47 
+Zeluvalimab_144w.pdb Zeluvalimab_144w.pdb 473.543 -54.3239 -46.1865 -81.3739 601.103 0 0 0 0 0 Zeluvalimab_144w.pdb 17 0 0 0 Zeluvalimab_144w.pdb 1597.92 
+Zeluvalimab_168w.pdb Zeluvalimab_168w.pdb 445.207 -54.7707 -44.3056 -104.651 594.163 0 0 0 0 0 Zeluvalimab_168w.pdb 16 0 0 0 Zeluvalimab_168w.pdb 1735.57 
+Zeluvalimab_39w.pdb Zeluvalimab_39w.pdb 468.571 -57.1983 -51.3173 -58.8095 578.698 0 0 0 0 0 Zeluvalimab_39w.pdb 14 0 0 0 Zeluvalimab_39w.pdb 1653.1 
+Zeluvalimab_130w.pdb Zeluvalimab_130w.pdb 482.456 -57.0332 -47.7525 -92.8066 623.015 0 0 0 0 0 Zeluvalimab_130w.pdb 17 0 0 0 Zeluvalimab_130w.pdb 1686.63 
+Zeluvalimab_114w.pdb Zeluvalimab_114w.pdb 476.549 -50.1006 -42.5941 -75.065 594.208 0 0 0 0 0 Zeluvalimab_114w.pdb 16 0 0 0 Zeluvalimab_114w.pdb 1553.28 
+Zeluvalimab_64w.pdb Zeluvalimab_64w.pdb 517.386 -60.0913 -52.2001 -78.912 648.498 0 0 0 0 0 Zeluvalimab_64w.pdb 16 0 0 0 Zeluvalimab_64w.pdb 1628.41 
+Zeluvalimab_153w.pdb Zeluvalimab_153w.pdb 469.727 -46.5954 -38.6332 -79.622 587.983 0 0 0 0 0 Zeluvalimab_153w.pdb 16 0 0 0 Zeluvalimab_153w.pdb 1464.56 
+Zeluvalimab_69w.pdb Zeluvalimab_69w.pdb 477.546 -46.7899 -39.8328 -69.5707 586.949 0 0 0 0 0 Zeluvalimab_69w.pdb 16 0 0 0 Zeluvalimab_69w.pdb 1593.35 
+Zeluvalimab_187w.pdb Zeluvalimab_187w.pdb 540.679 -44.3037 -38.1191 -61.8464 640.644 0 0 0 0 0 Zeluvalimab_187w.pdb 19 0 0 0 Zeluvalimab_187w.pdb 1481.36 
+Zeluvalimab_105w.pdb Zeluvalimab_105w.pdb 539.621 -44.1273 -37.015 -71.1232 647.759 0 0 0 0 0 Zeluvalimab_105w.pdb 18 0 0 0 Zeluvalimab_105w.pdb 1585.62 
+Zeluvalimab_200w.pdb Zeluvalimab_200w.pdb 595.777 -46.2495 -39.8869 -63.6262 699.29 0 0 0 0 0 Zeluvalimab_200w.pdb 19 0 0 0 Zeluvalimab_200w.pdb 1463.05 

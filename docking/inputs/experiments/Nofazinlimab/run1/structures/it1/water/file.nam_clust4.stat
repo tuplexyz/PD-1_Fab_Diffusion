@@ -1,0 +1,18 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Nofazinlimab_116w.pdb Nofazinlimab_116w.pdb 399.386 -74.11 -63.4404 -106.696 569.523 0 0 0 0 0 Nofazinlimab_116w.pdb 16 0 0 0 Nofazinlimab_116w.pdb 1944.67 
+Nofazinlimab_199w.pdb Nofazinlimab_199w.pdb 493.55 -77.6217 -69.2636 -83.5813 646.395 0 0 0 0 0 Nofazinlimab_199w.pdb 16 0 0 0 Nofazinlimab_199w.pdb 1951.91 
+Nofazinlimab_2w.pdb Nofazinlimab_2w.pdb 318.004 -65.5442 -58.595 -69.4919 446.091 0 0 0 0 0 Nofazinlimab_2w.pdb 12 0 0 0 Nofazinlimab_2w.pdb 1878.18 
+Nofazinlimab_60w.pdb Nofazinlimab_60w.pdb 413.697 -77.2451 -69.0147 -82.3042 565.016 0 0 0 0 0 Nofazinlimab_60w.pdb 14 0 0 0 Nofazinlimab_60w.pdb 1936.92 
+Nofazinlimab_187w.pdb Nofazinlimab_187w.pdb 511.317 -77.976 -68.5798 -93.9623 673.859 0 0 0 0 0 Nofazinlimab_187w.pdb 18 0 0 0 Nofazinlimab_187w.pdb 1928.44 
+Nofazinlimab_110w.pdb Nofazinlimab_110w.pdb 461.944 -74.2919 -68.6022 -56.8975 587.444 0 0 0 0 0 Nofazinlimab_110w.pdb 13 0 0 0 Nofazinlimab_110w.pdb 1843.77 
+Nofazinlimab_144w.pdb Nofazinlimab_144w.pdb 392.218 -63.6161 -55.5286 -80.8755 528.622 0 0 0 0 0 Nofazinlimab_144w.pdb 15 0 0 0 Nofazinlimab_144w.pdb 1865.75 
+Nofazinlimab_178w.pdb Nofazinlimab_178w.pdb 460.147 -71.9232 -62.2099 -97.1327 619.49 0 0 0 0 0 Nofazinlimab_178w.pdb 17 0 0 0 Nofazinlimab_178w.pdb 1994.9 
+Nofazinlimab_177w.pdb Nofazinlimab_177w.pdb 429.205 -67.7045 -58.7593 -89.4525 577.417 0 0 0 0 0 Nofazinlimab_177w.pdb 16 0 0 0 Nofazinlimab_177w.pdb 1781.29 
+Nofazinlimab_119w.pdb Nofazinlimab_119w.pdb 406.574 -65.8789 -58.3778 -75.011 539.963 0 0 0 0 0 Nofazinlimab_119w.pdb 13 0 0 0 Nofazinlimab_119w.pdb 1715.88 
+Nofazinlimab_145w.pdb Nofazinlimab_145w.pdb 456.083 -69.3173 -62.9177 -63.9963 582.997 0 0 0 0 0 Nofazinlimab_145w.pdb 16 0 0 0 Nofazinlimab_145w.pdb 1978.06 
+Nofazinlimab_111w.pdb Nofazinlimab_111w.pdb 533.527 -70.4948 -63.0039 -74.9086 671.44 0 0 0 0 0 Nofazinlimab_111w.pdb 18 0 0 0 Nofazinlimab_111w.pdb 1817.84 
+Nofazinlimab_182w.pdb Nofazinlimab_182w.pdb 497.857 -70.4934 -62.3526 -81.4078 641.618 0 0 0 0 0 Nofazinlimab_182w.pdb 16 0 0 0 Nofazinlimab_182w.pdb 1967.33 
+Nofazinlimab_24w.pdb Nofazinlimab_24w.pdb 467.804 -65.5282 -55.982 -95.4624 619.248 0 0 0 0 0 Nofazinlimab_24w.pdb 18 0 0 0 Nofazinlimab_24w.pdb 1947.86 
+Nofazinlimab_34w.pdb Nofazinlimab_34w.pdb 540.004 -60.7347 -58.6894 -20.4534 619.147 0 0 0 0 0 Nofazinlimab_34w.pdb 15 0 0 0 Nofazinlimab_34w.pdb 1790.3 
+Nofazinlimab_107w.pdb Nofazinlimab_107w.pdb 509.426 -64.7704 -58.4271 -63.4325 631.286 0 0 0 0 0 Nofazinlimab_107w.pdb 16 0 0 0 Nofazinlimab_107w.pdb 1731.01 
+Nofazinlimab_142w.pdb Nofazinlimab_142w.pdb 575.975 -56.4882 -48.4256 -80.6255 705.026 0 0 0 0 0 Nofazinlimab_142w.pdb 17 0 0 0 Nofazinlimab_142w.pdb 1709.45 

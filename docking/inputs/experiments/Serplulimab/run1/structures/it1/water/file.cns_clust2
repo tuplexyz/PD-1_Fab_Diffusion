@@ -1,0 +1,24 @@
+module(filenames;)
+set message off echo off end
+evaluate ($count = 1)
+while ($count le 2000) loop main
+   evaluate (&filenames.bestfile_$count = "")
+   evaluate ($count = $count + 1)
+end loop main
+set message on echo on end
+evaluate (&filenames.bestfile_1="PREVIT:Serplulimab_81w.pdb")
+evaluate (&filenames.bestfile_2="PREVIT:Serplulimab_69w.pdb")
+evaluate (&filenames.bestfile_3="PREVIT:Serplulimab_8w.pdb")
+evaluate (&filenames.bestfile_4="PREVIT:Serplulimab_122w.pdb")
+evaluate (&filenames.bestfile_5="PREVIT:Serplulimab_142w.pdb")
+evaluate (&filenames.bestfile_6="PREVIT:Serplulimab_16w.pdb")
+evaluate (&filenames.bestfile_7="PREVIT:Serplulimab_178w.pdb")
+evaluate (&filenames.bestfile_8="PREVIT:Serplulimab_68w.pdb")
+evaluate (&filenames.bestfile_9="PREVIT:Serplulimab_168w.pdb")
+evaluate (&filenames.bestfile_10="PREVIT:Serplulimab_87w.pdb")
+evaluate (&filenames.bestfile_11="PREVIT:Serplulimab_187w.pdb")
+evaluate (&filenames.bestfile_12="PREVIT:Serplulimab_70w.pdb")
+evaluate (&filenames.bestfile_13="PREVIT:Serplulimab_185w.pdb")
+evaluate (&filenames.bestfile_14="PREVIT:Serplulimab_67w.pdb")
+evaluate (&filenames.bestfile_15="PREVIT:Serplulimab_18w.pdb")
+evaluate (&filenames.bestfile_16="PREVIT:Serplulimab_143w.pdb")

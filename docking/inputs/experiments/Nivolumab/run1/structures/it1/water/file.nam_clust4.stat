@@ -1,0 +1,13 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Nivolumab_168w.pdb Nivolumab_168w.pdb 25.863 -74.6612 -54.4743 -201.869 282.207 0 0 0 0 0 Nivolumab_168w.pdb 7 0 0 0 Nivolumab_168w.pdb 1836.6 
+Nivolumab_98w.pdb Nivolumab_98w.pdb 148.208 -82.8217 -63.2217 -196 407.429 0 0 0 0 0 Nivolumab_98w.pdb 12 0 0 0 Nivolumab_98w.pdb 1834.49 
+Nivolumab_132w.pdb Nivolumab_132w.pdb 120.321 -78.3693 -53.403 -249.663 423.386 0 0 0 0 0 Nivolumab_132w.pdb 12 0 0 0 Nivolumab_132w.pdb 1815.16 
+Nivolumab_170w.pdb Nivolumab_170w.pdb 184.696 -77.9867 -58.8389 -191.478 435.014 0 0 0 0 0 Nivolumab_170w.pdb 12 0 0 0 Nivolumab_170w.pdb 1792.88 
+Nivolumab_67w.pdb Nivolumab_67w.pdb 133.689 -75.3388 -58.0213 -173.175 364.885 0 0 0 0 0 Nivolumab_67w.pdb 10 0 0 0 Nivolumab_67w.pdb 1713.37 
+Nivolumab_114w.pdb Nivolumab_114w.pdb 141.26 -71.4614 -46.6233 -248.381 436.265 0 0 0 0 0 Nivolumab_114w.pdb 11 0 0 0 Nivolumab_114w.pdb 1784.16 
+Nivolumab_141w.pdb Nivolumab_141w.pdb 84.3352 -68.6999 -39.8332 -288.667 412.835 0 0 0 0 0 Nivolumab_141w.pdb 12 0 0 0 Nivolumab_141w.pdb 1773.94 
+Nivolumab_107w.pdb Nivolumab_107w.pdb -0.749149 -53.5331 -27.5182 -260.149 286.918 0 0 0 0 0 Nivolumab_107w.pdb 9 0 0 0 Nivolumab_107w.pdb 1603.61 
+Nivolumab_142w.pdb Nivolumab_142w.pdb 231.13 -66.6322 -54.1849 -124.473 409.788 0 0 0 0 0 Nivolumab_142w.pdb 11 0 0 0 Nivolumab_142w.pdb 1616 
+Nivolumab_195w.pdb Nivolumab_195w.pdb 254.245 -66.8458 -50.7609 -160.849 465.854 0 0 0 0 0 Nivolumab_195w.pdb 14 0 0 0 Nivolumab_195w.pdb 1723.35 
+Nivolumab_196w.pdb Nivolumab_196w.pdb 116.987 -60.5202 -34.5533 -259.669 411.209 0 0 0 0 0 Nivolumab_196w.pdb 12 0 0 0 Nivolumab_196w.pdb 1722.67 
+Nivolumab_177w.pdb Nivolumab_177w.pdb 230.128 -48.0043 -29.9304 -180.739 440.797 0 0 0 0 0 Nivolumab_177w.pdb 13 0 0 0 Nivolumab_177w.pdb 1728.18 

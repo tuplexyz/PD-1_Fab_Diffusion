@@ -1,0 +1,15 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Finotonlimab_18w.pdb Finotonlimab_18w.pdb 147.306 -67.5148 -47.6689 -198.459 393.433 0 0 0 0 0 Finotonlimab_18w.pdb 10 0 0 0 Finotonlimab_18w.pdb 1817.78 
+Finotonlimab_9w.pdb Finotonlimab_9w.pdb 99.3147 -64.3848 -44.3706 -200.142 343.828 0 0 0 0 0 Finotonlimab_9w.pdb 11 0 0 0 Finotonlimab_9w.pdb 1963.7 
+Finotonlimab_189w.pdb Finotonlimab_189w.pdb 274.588 -74.7232 -52.3818 -223.414 550.384 0 0 0 0 0 Finotonlimab_189w.pdb 15 0 0 0 Finotonlimab_189w.pdb 2118 
+Finotonlimab_144w.pdb Finotonlimab_144w.pdb 227.592 -70.4865 -49.3344 -211.521 488.447 0 0 0 0 0 Finotonlimab_144w.pdb 16 0 0 0 Finotonlimab_144w.pdb 2157.48 
+Finotonlimab_114w.pdb Finotonlimab_114w.pdb 226.207 -64.38 -44.1743 -202.057 472.438 0 0 0 0 0 Finotonlimab_114w.pdb 13 0 0 0 Finotonlimab_114w.pdb 1977.72 
+Finotonlimab_187w.pdb Finotonlimab_187w.pdb 283.395 -67.5689 -47.4366 -201.323 532.155 0 0 0 0 0 Finotonlimab_187w.pdb 17 0 0 0 Finotonlimab_187w.pdb 2112.5 
+Finotonlimab_131w.pdb Finotonlimab_131w.pdb 246.825 -64.8156 -45.0051 -198.105 489.936 0 0 0 0 0 Finotonlimab_131w.pdb 13 0 0 0 Finotonlimab_131w.pdb 1855.93 
+Finotonlimab_97w.pdb Finotonlimab_97w.pdb 214.317 -62.9975 -42.86 -201.375 458.552 0 0 0 0 0 Finotonlimab_97w.pdb 13 0 0 0 Finotonlimab_97w.pdb 1780.9 
+Finotonlimab_168w.pdb Finotonlimab_168w.pdb 276.809 -60.9479 -42.9927 -179.552 499.354 0 0 0 0 0 Finotonlimab_168w.pdb 13 0 0 0 Finotonlimab_168w.pdb 1652.76 
+Finotonlimab_186w.pdb Finotonlimab_186w.pdb 323.113 -59.2447 -42.1485 -170.962 536.223 0 0 0 0 0 Finotonlimab_186w.pdb 14 0 0 0 Finotonlimab_186w.pdb 1806.26 
+Finotonlimab_120w.pdb Finotonlimab_120w.pdb 257.407 -51.0452 -31.4758 -195.694 484.577 0 0 0 0 0 Finotonlimab_120w.pdb 13 0 0 0 Finotonlimab_120w.pdb 1388.72 
+Finotonlimab_102w.pdb Finotonlimab_102w.pdb 416.68 -51.1756 -34.5837 -165.919 617.182 0 0 0 0 0 Finotonlimab_102w.pdb 18 0 0 0 Finotonlimab_102w.pdb 1366.23 
+Finotonlimab_95w.pdb Finotonlimab_95w.pdb 370.946 -43.0095 -28.2362 -147.733 546.915 0 0 0 0 0 Finotonlimab_95w.pdb 14 0 0 0 Finotonlimab_95w.pdb 1429.97 
+Finotonlimab_75w.pdb Finotonlimab_75w.pdb 363.595 -42.4392 -26.4876 -159.516 549.599 0 0 0 0 0 Finotonlimab_75w.pdb 16 0 0 0 Finotonlimab_75w.pdb 1446.29 

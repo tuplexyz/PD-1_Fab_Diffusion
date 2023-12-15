@@ -1,0 +1,25 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Ezabenlimab_12w.pdb Ezabenlimab_12w.pdb 578.52 -58.2775 -45.8609 -124.166 748.548 0 0 0 0 0 Ezabenlimab_12w.pdb 21 0 0 0 Ezabenlimab_12w.pdb 1771 
+Ezabenlimab_24w.pdb Ezabenlimab_24w.pdb 558.81 -56.6378 -48.5506 -80.8721 688.233 0 0 0 0 0 Ezabenlimab_24w.pdb 19 0 0 0 Ezabenlimab_24w.pdb 1705.53 
+Ezabenlimab_93w.pdb Ezabenlimab_93w.pdb 591.462 -56.6392 -49.4333 -72.0594 712.955 0 0 0 0 0 Ezabenlimab_93w.pdb 19 0 0 0 Ezabenlimab_93w.pdb 1744.37 
+Ezabenlimab_42w.pdb Ezabenlimab_42w.pdb 678.064 -57.688 -48.3848 -93.0324 819.481 0 0 0 0 0 Ezabenlimab_42w.pdb 24 0 0 0 Ezabenlimab_42w.pdb 1774.71 
+Ezabenlimab_17w.pdb Ezabenlimab_17w.pdb 566.155 -49.8235 -41.0258 -87.9775 695.158 0 0 0 0 0 Ezabenlimab_17w.pdb 21 0 0 0 Ezabenlimab_17w.pdb 1675.42 
+Ezabenlimab_82w.pdb Ezabenlimab_82w.pdb 573.939 -44.9446 -38.7207 -62.2388 674.898 0 0 0 0 0 Ezabenlimab_82w.pdb 17 0 0 0 Ezabenlimab_82w.pdb 1502.7 
+Ezabenlimab_53w.pdb Ezabenlimab_53w.pdb 511.2 -41.7383 -33.5697 -81.6859 626.455 0 0 0 0 0 Ezabenlimab_53w.pdb 15 0 0 0 Ezabenlimab_53w.pdb 1418.69 
+Ezabenlimab_96w.pdb Ezabenlimab_96w.pdb 580.747 -46.7744 -39.554 -72.2035 692.505 0 0 0 0 0 Ezabenlimab_96w.pdb 17 0 0 0 Ezabenlimab_96w.pdb 1459.67 
+Ezabenlimab_119w.pdb Ezabenlimab_119w.pdb 606.862 -44.2108 -35.9988 -82.1203 724.981 0 0 0 0 0 Ezabenlimab_119w.pdb 19 0 0 0 Ezabenlimab_119w.pdb 1509.32 
+Ezabenlimab_152w.pdb Ezabenlimab_152w.pdb 625.379 -42.8485 -36.0034 -68.4514 729.834 0 0 0 0 0 Ezabenlimab_152w.pdb 17 0 0 0 Ezabenlimab_152w.pdb 1505 
+Ezabenlimab_110w.pdb Ezabenlimab_110w.pdb 633.408 -45.8818 -37.7774 -81.0439 752.229 0 0 0 0 0 Ezabenlimab_110w.pdb 19 0 0 0 Ezabenlimab_110w.pdb 1466.94 
+Ezabenlimab_66w.pdb Ezabenlimab_66w.pdb 611.201 -44.3769 -35.0973 -92.7964 739.094 0 0 0 0 0 Ezabenlimab_66w.pdb 19 0 0 0 Ezabenlimab_66w.pdb 1493.86 
+Ezabenlimab_76w.pdb Ezabenlimab_76w.pdb 622.936 -41.4614 -33.512 -79.4941 735.942 0 0 0 0 0 Ezabenlimab_76w.pdb 20 0 0 0 Ezabenlimab_76w.pdb 1495.56 
+Ezabenlimab_38w.pdb Ezabenlimab_38w.pdb 779.941 -51.6463 -46.48 -51.6629 878.084 0 0 0 0 0 Ezabenlimab_38w.pdb 23 0 0 0 Ezabenlimab_38w.pdb 1717.67 
+Ezabenlimab_187w.pdb Ezabenlimab_187w.pdb 648.462 -45.5435 -36.9247 -86.1877 771.574 0 0 0 0 0 Ezabenlimab_187w.pdb 19 0 0 0 Ezabenlimab_187w.pdb 1536.74 
+Ezabenlimab_79w.pdb Ezabenlimab_79w.pdb 561.635 -34.942 -28.5899 -63.5214 653.746 0 0 0 0 0 Ezabenlimab_79w.pdb 16 0 0 0 Ezabenlimab_79w.pdb 1481.51 
+Ezabenlimab_124w.pdb Ezabenlimab_124w.pdb 606.465 -39.9707 -30.6528 -93.1792 730.297 0 0 0 0 0 Ezabenlimab_124w.pdb 18 0 0 0 Ezabenlimab_124w.pdb 1473.15 
+Ezabenlimab_160w.pdb Ezabenlimab_160w.pdb 663.463 -50.7606 -41.6093 -91.5128 796.585 0 0 0 0 0 Ezabenlimab_160w.pdb 19 0 0 0 Ezabenlimab_160w.pdb 1412.2 
+Ezabenlimab_132w.pdb Ezabenlimab_132w.pdb 715.433 -36.524 -30.8578 -56.662 802.953 0 0 0 0 0 Ezabenlimab_132w.pdb 22 0 0 0 Ezabenlimab_132w.pdb 1514.7 
+Ezabenlimab_62w.pdb Ezabenlimab_62w.pdb 688.038 -43.5537 -34.4858 -90.6787 813.202 0 0 0 0 0 Ezabenlimab_62w.pdb 21 0 0 0 Ezabenlimab_62w.pdb 1518.87 
+Ezabenlimab_175w.pdb Ezabenlimab_175w.pdb 700.918 -44.3658 -36.2189 -81.4686 818.605 0 0 0 0 0 Ezabenlimab_175w.pdb 20 0 0 0 Ezabenlimab_175w.pdb 1432.07 
+Ezabenlimab_194w.pdb Ezabenlimab_194w.pdb 687.403 -40.8682 -33.7028 -71.6536 792.759 0 0 0 0 0 Ezabenlimab_194w.pdb 21 0 0 0 Ezabenlimab_194w.pdb 1463.38 
+Ezabenlimab_121w.pdb Ezabenlimab_121w.pdb 648.744 -39.2531 -31.8731 -73.8001 754.417 0 0 0 0 0 Ezabenlimab_121w.pdb 20 0 0 0 Ezabenlimab_121w.pdb 1405.2 
+Ezabenlimab_105w.pdb Ezabenlimab_105w.pdb 766.189 -38.9779 -29.5375 -94.404 890.13 0 0 0 0 0 Ezabenlimab_105w.pdb 24 0 0 0 Ezabenlimab_105w.pdb 1610.13 

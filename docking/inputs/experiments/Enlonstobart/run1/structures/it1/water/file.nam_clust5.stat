@@ -1,0 +1,8 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Enlonstobart_157w.pdb Enlonstobart_157w.pdb -16.0595 -75.7013 -50.415 -252.863 287.219 0 0 0 0 0 Enlonstobart_157w.pdb 8 0 0 0 Enlonstobart_157w.pdb 1707.95 
+Enlonstobart_192w.pdb Enlonstobart_192w.pdb 101.033 -71.6235 -51.5333 -200.902 353.469 0 0 0 0 0 Enlonstobart_192w.pdb 10 0 0 0 Enlonstobart_192w.pdb 1897.07 
+Enlonstobart_5w.pdb Enlonstobart_5w.pdb -45.7545 -60.1237 -44.6668 -154.569 153.482 0 0 0 0 0 Enlonstobart_5w.pdb 6 0 0 0 Enlonstobart_5w.pdb 1756.93 
+Enlonstobart_151w.pdb Enlonstobart_151w.pdb 132.923 -70.5122 -56.9373 -135.749 325.609 0 0 0 0 0 Enlonstobart_151w.pdb 9 0 0 0 Enlonstobart_151w.pdb 1731.4 
+Enlonstobart_83w.pdb Enlonstobart_83w.pdb 128.345 -63.4519 -47.1664 -162.855 338.366 0 0 0 0 0 Enlonstobart_83w.pdb 8 0 0 0 Enlonstobart_83w.pdb 1593.03 
+Enlonstobart_155w.pdb Enlonstobart_155w.pdb 257.563 -56.8131 -39.5983 -172.148 469.31 0 0 0 0 0 Enlonstobart_155w.pdb 15 0 0 0 Enlonstobart_155w.pdb 1721.36 
+Enlonstobart_146w.pdb Enlonstobart_146w.pdb 318.138 -52.0216 -44.6008 -74.208 436.947 0 0 0 0 0 Enlonstobart_146w.pdb 12 0 0 0 Enlonstobart_146w.pdb 1706.21 

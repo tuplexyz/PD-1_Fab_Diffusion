@@ -1,0 +1,7 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Enlonstobart_96w.pdb Enlonstobart_96w.pdb 158.544 -83.3558 -66.4994 -168.564 393.607 0 0 0 0 0 Enlonstobart_96w.pdb 10 0 0 0 Enlonstobart_96w.pdb 1837.27 
+Enlonstobart_18w.pdb Enlonstobart_18w.pdb 204.373 -78.5847 -67.7118 -108.729 380.813 0 0 0 0 0 Enlonstobart_18w.pdb 10 0 0 0 Enlonstobart_18w.pdb 1768.08 
+Enlonstobart_63w.pdb Enlonstobart_63w.pdb 300.585 -77.6096 -71.5373 -60.7232 432.845 0 0 0 0 0 Enlonstobart_63w.pdb 10 0 0 0 Enlonstobart_63w.pdb 1736.49 
+Enlonstobart_60w.pdb Enlonstobart_60w.pdb 317.324 -78.8689 -67.6027 -112.662 497.589 0 0 0 0 0 Enlonstobart_60w.pdb 13 0 0 0 Enlonstobart_60w.pdb 1751.26 
+Enlonstobart_158w.pdb Enlonstobart_158w.pdb 278.251 -74.1248 -62.8931 -112.317 453.461 0 0 0 0 0 Enlonstobart_158w.pdb 12 0 0 0 Enlonstobart_158w.pdb 1749.23 
+Enlonstobart_109w.pdb Enlonstobart_109w.pdb 297.005 -58.4509 -46.342 -121.089 464.435 0 0 0 0 0 Enlonstobart_109w.pdb 12 0 0 0 Enlonstobart_109w.pdb 1613.02 

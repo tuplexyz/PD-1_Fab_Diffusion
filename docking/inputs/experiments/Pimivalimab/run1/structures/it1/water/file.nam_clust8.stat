@@ -1,0 +1,7 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Pimivalimab_1w.pdb Pimivalimab_1w.pdb 98.5286 -40.8476 -33.379 -74.6856 206.593 0 0 0 0 0 Pimivalimab_1w.pdb 8 0 0 0 Pimivalimab_1w.pdb 1362.26 
+Pimivalimab_86w.pdb Pimivalimab_86w.pdb 375.071 -52.9451 -40.05 -128.951 544.071 0 0 0 0 0 Pimivalimab_86w.pdb 15 0 0 0 Pimivalimab_86w.pdb 1388.89 
+Pimivalimab_2w.pdb Pimivalimab_2w.pdb 255.239 -44.314 -36.286 -80.2799 371.805 0 0 0 0 0 Pimivalimab_2w.pdb 10 0 0 0 Pimivalimab_2w.pdb 1211.18 
+Pimivalimab_188w.pdb Pimivalimab_188w.pdb 453.75 -43.5469 -33.4544 -100.925 588.13 0 0 0 0 0 Pimivalimab_188w.pdb 15 0 0 0 Pimivalimab_188w.pdb 1265.98 
+Pimivalimab_119w.pdb Pimivalimab_119w.pdb 452.787 -38.0869 -32.6126 -54.7433 540.142 0 0 0 0 0 Pimivalimab_119w.pdb 15 0 0 0 Pimivalimab_119w.pdb 1370.92 
+Pimivalimab_164w.pdb Pimivalimab_164w.pdb 489.517 -43.0644 -33.659 -94.0542 617.23 0 0 0 0 0 Pimivalimab_164w.pdb 18 0 0 0 Pimivalimab_164w.pdb 1386.89 

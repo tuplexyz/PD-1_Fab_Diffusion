@@ -1,0 +1,5 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Geptanolimab_16w.pdb Geptanolimab_16w.pdb 274.831 -79.3303 -67.8681 -114.622 457.321 0 0 0 0 0 Geptanolimab_16w.pdb 13 0 0 0 Geptanolimab_16w.pdb 2155.37 
+Geptanolimab_40w.pdb Geptanolimab_40w.pdb 427.996 -63.6671 -53.8525 -98.1462 579.994 0 0 0 0 0 Geptanolimab_40w.pdb 15 0 0 0 Geptanolimab_40w.pdb 1969.38 
+Geptanolimab_30w.pdb Geptanolimab_30w.pdb 393.533 -60.579 -53.6955 -68.8352 516.064 0 0 0 0 0 Geptanolimab_30w.pdb 14 0 0 0 Geptanolimab_30w.pdb 1912.32 
+Geptanolimab_13w.pdb Geptanolimab_13w.pdb 367.877 -55.1794 -47.1888 -79.9063 494.972 0 0 0 0 0 Geptanolimab_13w.pdb 13 0 0 0 Geptanolimab_13w.pdb 1835.42 

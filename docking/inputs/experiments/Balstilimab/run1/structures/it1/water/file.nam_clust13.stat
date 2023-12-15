@@ -1,0 +1,5 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Balstilimab_168w.pdb Balstilimab_168w.pdb 260.19 -52.9318 -39.9949 -129.369 429.553 0 0 0 0 0 Balstilimab_168w.pdb 13 0 0 0 Balstilimab_168w.pdb 1551.96 
+Balstilimab_176w.pdb Balstilimab_176w.pdb 356.833 -55.3475 -44.0896 -112.579 513.501 0 0 0 0 0 Balstilimab_176w.pdb 14 0 0 0 Balstilimab_176w.pdb 1266.3 
+Balstilimab_173w.pdb Balstilimab_173w.pdb 413.985 -61.8111 -49.1819 -126.292 589.46 0 0 0 0 0 Balstilimab_173w.pdb 15 0 0 0 Balstilimab_173w.pdb 1389.7 
+Balstilimab_180w.pdb Balstilimab_180w.pdb 345.938 -57.2512 -43.7895 -134.617 524.345 0 0 0 0 0 Balstilimab_180w.pdb 14 0 0 0 Balstilimab_180w.pdb 1394.92 

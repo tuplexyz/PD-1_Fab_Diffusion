@@ -1,0 +1,4 @@
+#Cluster #dH sd
+file.nam_clust1 -134.529   27.144 
+file.nam_clust2 -165.807   31.349 
+file.nam_clust3 -105.230   37.399 

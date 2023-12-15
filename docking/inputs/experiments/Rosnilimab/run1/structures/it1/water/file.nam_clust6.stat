@@ -1,0 +1,7 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Rosnilimab_45w.pdb Rosnilimab_45w.pdb 360.793 -74.8585 -64.0122 -108.463 533.269 0 0 0 0 0 Rosnilimab_45w.pdb 14 0 0 0 Rosnilimab_45w.pdb 1884.64 
+Rosnilimab_149w.pdb Rosnilimab_149w.pdb 363.427 -64.6443 -49.4745 -151.698 564.6 0 0 0 0 0 Rosnilimab_149w.pdb 13 0 0 0 Rosnilimab_149w.pdb 1802.37 
+Rosnilimab_9w.pdb Rosnilimab_9w.pdb 327.752 -61.4708 -45.1812 -162.896 535.829 0 0 0 0 0 Rosnilimab_9w.pdb 13 0 0 0 Rosnilimab_9w.pdb 1809.24 
+Rosnilimab_144w.pdb Rosnilimab_144w.pdb 421.219 -66.0367 -58.6473 -73.8935 553.76 0 0 0 0 0 Rosnilimab_144w.pdb 12 0 0 0 Rosnilimab_144w.pdb 1804.19 
+Rosnilimab_76w.pdb Rosnilimab_76w.pdb 460.667 -66.1019 -54.6172 -114.847 630.131 0 0 0 0 0 Rosnilimab_76w.pdb 17 0 0 0 Rosnilimab_76w.pdb 1896.5 
+Rosnilimab_183w.pdb Rosnilimab_183w.pdb 484.383 -65.1172 -58.3704 -67.4677 610.221 0 0 0 0 0 Rosnilimab_183w.pdb 17 0 0 0 Rosnilimab_183w.pdb 1941.14 

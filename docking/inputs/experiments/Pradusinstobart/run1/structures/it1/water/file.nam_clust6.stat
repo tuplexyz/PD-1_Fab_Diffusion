@@ -1,0 +1,7 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Pradusinstobart_138w.pdb Pradusinstobart_138w.pdb 324.005 -64.0299 -48.9426 -150.873 523.821 0 0 0 0 0 Pradusinstobart_138w.pdb 15 0 0 0 Pradusinstobart_138w.pdb 1722.62 
+Pradusinstobart_99w.pdb Pradusinstobart_99w.pdb 308.981 -55.5432 -43.8256 -117.176 469.982 0 0 0 0 0 Pradusinstobart_99w.pdb 11 0 0 0 Pradusinstobart_99w.pdb 1359.88 
+Pradusinstobart_157w.pdb Pradusinstobart_157w.pdb 188.351 -44.2629 -28.5534 -157.095 374 0 0 0 0 0 Pradusinstobart_157w.pdb 10 0 0 0 Pradusinstobart_157w.pdb 1404.42 
+Pradusinstobart_179w.pdb Pradusinstobart_179w.pdb 401.249 -53.267 -41.6163 -116.507 559.372 0 0 0 0 0 Pradusinstobart_179w.pdb 14 0 0 0 Pradusinstobart_179w.pdb 1419.11 
+Pradusinstobart_63w.pdb Pradusinstobart_63w.pdb 272.06 -39.5942 -23.0067 -165.875 460.942 0 0 0 0 0 Pradusinstobart_63w.pdb 13 0 0 0 Pradusinstobart_63w.pdb 1464.11 
+Pradusinstobart_145w.pdb Pradusinstobart_145w.pdb 375.666 -41.3874 -29.4805 -119.069 524.216 0 0 0 0 0 Pradusinstobart_145w.pdb 14 0 0 0 Pradusinstobart_145w.pdb 1526.21 

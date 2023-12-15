@@ -1,0 +1,17 @@
+module(filenames;)
+set message off echo off end
+evaluate ($count = 1)
+while ($count le 2000) loop main
+   evaluate (&filenames.bestfile_$count = "")
+   evaluate ($count = $count + 1)
+end loop main
+set message on echo on end
+evaluate (&filenames.bestfile_1="PREVIT:Enlonstobart_171w.pdb")
+evaluate (&filenames.bestfile_2="PREVIT:Enlonstobart_179w.pdb")
+evaluate (&filenames.bestfile_3="PREVIT:Enlonstobart_137w.pdb")
+evaluate (&filenames.bestfile_4="PREVIT:Enlonstobart_156w.pdb")
+evaluate (&filenames.bestfile_5="PREVIT:Enlonstobart_33w.pdb")
+evaluate (&filenames.bestfile_6="PREVIT:Enlonstobart_161w.pdb")
+evaluate (&filenames.bestfile_7="PREVIT:Enlonstobart_153w.pdb")
+evaluate (&filenames.bestfile_8="PREVIT:Enlonstobart_86w.pdb")
+evaluate (&filenames.bestfile_9="PREVIT:Enlonstobart_173w.pdb")

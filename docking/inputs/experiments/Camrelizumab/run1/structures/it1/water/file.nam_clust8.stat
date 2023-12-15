@@ -1,0 +1,9 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Camrelizumab_53w.pdb Camrelizumab_53w.pdb 397.989 -82.9853 -72.04 -109.453 579.482 0 0 0 0 0 Camrelizumab_53w.pdb 15 0 0 0 Camrelizumab_53w.pdb 2078.94 
+Camrelizumab_68w.pdb Camrelizumab_68w.pdb 397.755 -73.2786 -60.9382 -123.404 582.097 0 0 0 0 0 Camrelizumab_68w.pdb 17 0 0 0 Camrelizumab_68w.pdb 2022.32 
+Camrelizumab_138w.pdb Camrelizumab_138w.pdb 292.256 -67.617 -60.2372 -73.7984 426.292 0 0 0 0 0 Camrelizumab_138w.pdb 13 0 0 0 Camrelizumab_138w.pdb 1919.62 
+Camrelizumab_101w.pdb Camrelizumab_101w.pdb 465.313 -67.8925 -58.5177 -93.748 617.578 0 0 0 0 0 Camrelizumab_101w.pdb 17 0 0 0 Camrelizumab_101w.pdb 1940.55 
+Camrelizumab_60w.pdb Camrelizumab_60w.pdb 357.174 -59.6283 -49.2569 -103.714 510.144 0 0 0 0 0 Camrelizumab_60w.pdb 15 0 0 0 Camrelizumab_60w.pdb 1867.15 
+Camrelizumab_92w.pdb Camrelizumab_92w.pdb 475.513 -62.4189 -55.8151 -66.0382 597.366 0 0 0 0 0 Camrelizumab_92w.pdb 19 0 0 0 Camrelizumab_92w.pdb 1937.27 
+Camrelizumab_140w.pdb Camrelizumab_140w.pdb 506.19 -58.5966 -47.5597 -110.369 664.119 0 0 0 0 0 Camrelizumab_140w.pdb 19 0 0 0 Camrelizumab_140w.pdb 1863.53 
+Camrelizumab_190w.pdb Camrelizumab_190w.pdb 521.804 -53.7161 -45.9938 -77.2235 645.021 0 0 0 0 0 Camrelizumab_190w.pdb 19 0 0 0 Camrelizumab_190w.pdb 1936.3 

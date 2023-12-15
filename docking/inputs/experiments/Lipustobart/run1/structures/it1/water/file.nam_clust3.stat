@@ -1,0 +1,11 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Lipustobart_78w.pdb Lipustobart_78w.pdb 346.481 -56.396 -41.6294 -147.666 535.776 0 0 0 0 0 Lipustobart_78w.pdb 14 0 0 0 Lipustobart_78w.pdb 1705.94 
+Lipustobart_91w.pdb Lipustobart_91w.pdb 450.508 -61.5029 -48.1136 -133.893 632.514 0 0 0 0 0 Lipustobart_91w.pdb 16 0 0 0 Lipustobart_91w.pdb 1678.56 
+Lipustobart_199w.pdb Lipustobart_199w.pdb 403.719 -59.9676 -42.9011 -170.665 617.285 0 0 0 0 0 Lipustobart_199w.pdb 17 0 0 0 Lipustobart_199w.pdb 1815.53 
+Lipustobart_70w.pdb Lipustobart_70w.pdb 342.04 -45.927 -28.9708 -169.562 540.573 0 0 0 0 0 Lipustobart_70w.pdb 15 0 0 0 Lipustobart_70w.pdb 1701.34 
+Lipustobart_169w.pdb Lipustobart_169w.pdb 477.484 -54.65 -41.1174 -135.326 653.927 0 0 0 0 0 Lipustobart_169w.pdb 16 0 0 0 Lipustobart_169w.pdb 1635.77 
+Lipustobart_173w.pdb Lipustobart_173w.pdb 586.962 -62.8941 -51.6426 -112.515 751.12 0 0 0 0 0 Lipustobart_173w.pdb 20 0 0 0 Lipustobart_173w.pdb 1714.36 
+Lipustobart_147w.pdb Lipustobart_147w.pdb 509.31 -59.1585 -49.457 -97.0148 655.782 0 0 0 0 0 Lipustobart_147w.pdb 17 0 0 0 Lipustobart_147w.pdb 1683.38 
+Lipustobart_177w.pdb Lipustobart_177w.pdb 504.348 -51.9576 -37.6338 -143.238 685.219 0 0 0 0 0 Lipustobart_177w.pdb 18 0 0 0 Lipustobart_177w.pdb 1711.12 
+Lipustobart_190w.pdb Lipustobart_190w.pdb 617.53 -64.0033 -55.1587 -88.4456 761.134 0 0 0 0 0 Lipustobart_190w.pdb 20 0 0 0 Lipustobart_190w.pdb 1678.44 
+Lipustobart_162w.pdb Lipustobart_162w.pdb 573.827 -52.3903 -38.9598 -134.305 747.092 0 0 0 0 0 Lipustobart_162w.pdb 20 0 0 0 Lipustobart_162w.pdb 1632.35 

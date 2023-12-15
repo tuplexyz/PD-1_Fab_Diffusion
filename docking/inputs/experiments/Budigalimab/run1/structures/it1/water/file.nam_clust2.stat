@@ -1,0 +1,15 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Budigalimab_26w.pdb Budigalimab_26w.pdb 226.236 -96.053 -70.6994 -253.536 550.472 0 0 0 0 0 Budigalimab_26w.pdb 15 0 0 0 Budigalimab_26w.pdb 2086.98 
+Budigalimab_62w.pdb Budigalimab_62w.pdb 254.651 -83.5099 -56.8641 -266.458 577.973 0 0 0 0 0 Budigalimab_62w.pdb 16 0 0 0 Budigalimab_62w.pdb 1989.09 
+Budigalimab_46w.pdb Budigalimab_46w.pdb 286.901 -77.1773 -56.755 -204.223 547.879 0 0 0 0 0 Budigalimab_46w.pdb 16 0 0 0 Budigalimab_46w.pdb 1959.54 
+Budigalimab_118w.pdb Budigalimab_118w.pdb 269.445 -89.9578 -64.4029 -255.549 589.398 0 0 0 0 0 Budigalimab_118w.pdb 15 0 0 0 Budigalimab_118w.pdb 2221.94 
+Budigalimab_115w.pdb Budigalimab_115w.pdb 296.149 -79.3329 -58.3163 -210.166 564.631 0 0 0 0 0 Budigalimab_115w.pdb 14 0 0 0 Budigalimab_115w.pdb 1880.8 
+Budigalimab_93w.pdb Budigalimab_93w.pdb 291.495 -83.036 -60.241 -227.95 579.686 0 0 0 0 0 Budigalimab_93w.pdb 16 0 0 0 Budigalimab_93w.pdb 2144.76 
+Budigalimab_45w.pdb Budigalimab_45w.pdb 327.003 -82.4487 -61.8236 -206.251 595.077 0 0 0 0 0 Budigalimab_45w.pdb 15 0 0 0 Budigalimab_45w.pdb 1892.03 
+Budigalimab_170w.pdb Budigalimab_170w.pdb 371.478 -87.9624 -63.2334 -247.29 682.001 0 0 0 0 0 Budigalimab_170w.pdb 19 0 0 0 Budigalimab_170w.pdb 2015.73 
+Budigalimab_117w.pdb Budigalimab_117w.pdb 318.852 -87.5604 -64.8043 -227.561 611.217 0 0 0 0 0 Budigalimab_117w.pdb 18 0 0 0 Budigalimab_117w.pdb 2158.6 
+Budigalimab_54w.pdb Budigalimab_54w.pdb 297.352 -75.3593 -51.7566 -236.027 585.136 0 0 0 0 0 Budigalimab_54w.pdb 14 0 0 0 Budigalimab_54w.pdb 1963.32 
+Budigalimab_113w.pdb Budigalimab_113w.pdb 376.665 -79.43 -58.5599 -208.701 643.926 0 0 0 0 0 Budigalimab_113w.pdb 19 0 0 0 Budigalimab_113w.pdb 1888.15 
+Budigalimab_167w.pdb Budigalimab_167w.pdb 441.518 -82.1456 -55.8779 -262.677 760.073 0 0 0 0 0 Budigalimab_167w.pdb 21 0 0 0 Budigalimab_167w.pdb 2018.6 
+Budigalimab_195w.pdb Budigalimab_195w.pdb 438.628 -77.0545 -47.2158 -298.387 784.231 0 0 0 0 0 Budigalimab_195w.pdb 21 0 0 0 Budigalimab_195w.pdb 1921.85 
+Budigalimab_151w.pdb Budigalimab_151w.pdb 481.862 -79.0665 -55.319 -237.475 774.656 0 0 0 0 0 Budigalimab_151w.pdb 21 0 0 0 Budigalimab_151w.pdb 2030.39 

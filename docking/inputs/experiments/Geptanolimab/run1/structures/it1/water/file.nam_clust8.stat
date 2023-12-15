@@ -1,0 +1,9 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Geptanolimab_6w.pdb Geptanolimab_6w.pdb -2.11784 -80.0466 -54.4596 -255.87 308.212 0 0 0 0 0 Geptanolimab_6w.pdb 9 0 0 0 Geptanolimab_6w.pdb 2050.62 
+Geptanolimab_37w.pdb Geptanolimab_37w.pdb 131.109 -60.838 -39.9903 -208.477 379.576 0 0 0 0 0 Geptanolimab_37w.pdb 10 0 0 0 Geptanolimab_37w.pdb 1858.68 
+Geptanolimab_92w.pdb Geptanolimab_92w.pdb 192.201 -67.8561 -46.2374 -216.187 454.625 0 0 0 0 0 Geptanolimab_92w.pdb 11 0 0 0 Geptanolimab_92w.pdb 1915.07 
+Geptanolimab_61w.pdb Geptanolimab_61w.pdb 235.877 -61.656 -44.1005 -175.555 455.532 0 0 0 0 0 Geptanolimab_61w.pdb 13 0 0 0 Geptanolimab_61w.pdb 1793.35 
+Geptanolimab_63w.pdb Geptanolimab_63w.pdb 315.919 -64.5093 -49.6149 -148.944 514.478 0 0 0 0 0 Geptanolimab_63w.pdb 14 0 0 0 Geptanolimab_63w.pdb 1813.29 
+Geptanolimab_98w.pdb Geptanolimab_98w.pdb 309.855 -56.1379 -40.5459 -155.92 506.321 0 0 0 0 0 Geptanolimab_98w.pdb 13 0 0 0 Geptanolimab_98w.pdb 1630.98 
+Geptanolimab_114w.pdb Geptanolimab_114w.pdb 402.489 -65.7586 -56.2436 -95.1497 553.883 0 0 0 0 0 Geptanolimab_114w.pdb 15 0 0 0 Geptanolimab_114w.pdb 1614.19 
+Geptanolimab_53w.pdb Geptanolimab_53w.pdb 379.525 -50.6386 -39.3257 -113.129 531.98 0 0 0 0 0 Geptanolimab_53w.pdb 14 0 0 0 Geptanolimab_53w.pdb 1522.26 

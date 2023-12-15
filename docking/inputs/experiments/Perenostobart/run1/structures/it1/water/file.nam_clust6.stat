@@ -1,0 +1,8 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Perenostobart_200w.pdb Perenostobart_200w.pdb 190.526 -82.7581 -64.3808 -183.773 438.68 0 0 0 0 0 Perenostobart_200w.pdb 12 0 0 0 Perenostobart_200w.pdb 2058.81 
+Perenostobart_40w.pdb Perenostobart_40w.pdb 292.597 -76.3344 -63.5432 -127.912 484.052 0 0 0 0 0 Perenostobart_40w.pdb 12 0 0 0 Perenostobart_40w.pdb 2067.95 
+Perenostobart_87w.pdb Perenostobart_87w.pdb 315.898 -79.7998 -66.6182 -131.816 514.333 0 0 0 0 0 Perenostobart_87w.pdb 14 0 0 0 Perenostobart_87w.pdb 2146.19 
+Perenostobart_153w.pdb Perenostobart_153w.pdb 346.961 -77.3982 -62.0793 -153.189 562.229 0 0 0 0 0 Perenostobart_153w.pdb 16 0 0 0 Perenostobart_153w.pdb 2077.59 
+Perenostobart_93w.pdb Perenostobart_93w.pdb 364.031 -71.2225 -58.349 -128.735 551.114 0 0 0 0 0 Perenostobart_93w.pdb 13 0 0 0 Perenostobart_93w.pdb 1778.75 
+Perenostobart_167w.pdb Perenostobart_167w.pdb 348.191 -62.7095 -50.9187 -117.908 517.018 0 0 0 0 0 Perenostobart_167w.pdb 12 0 0 0 Perenostobart_167w.pdb 1929.1 
+Perenostobart_92w.pdb Perenostobart_92w.pdb 373.81 -65.0805 -53.1278 -119.527 546.464 0 0 0 0 0 Perenostobart_92w.pdb 13 0 0 0 Perenostobart_92w.pdb 1903.72 

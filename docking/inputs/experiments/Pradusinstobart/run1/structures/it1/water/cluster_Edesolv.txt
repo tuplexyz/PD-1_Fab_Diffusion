@@ -1,0 +1,9 @@
+#Cluster #Edesolv sd
+file.nam_clust1   -7.298    5.240 
+file.nam_clust2   -0.240    5.069 
+file.nam_clust3  -10.181    3.301 
+file.nam_clust4  -13.400    3.389 
+file.nam_clust5   -9.045    2.869 
+file.nam_clust6   11.416    2.306 
+file.nam_clust7   -2.719    4.257 
+file.nam_clust8  -12.780    2.227 

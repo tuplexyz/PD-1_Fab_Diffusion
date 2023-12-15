@@ -1,0 +1,6 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Serplulimab_43w.pdb Serplulimab_43w.pdb 71.9499 -80.5529 -64.5504 -160.025 296.525 0 0 0 0 0 Serplulimab_43w.pdb 9 0 0 0 Serplulimab_43w.pdb 2097.55 
+Serplulimab_65w.pdb Serplulimab_65w.pdb -15.4095 -81.8016 -64.1749 -176.267 225.032 0 0 0 0 0 Serplulimab_65w.pdb 6 0 0 0 Serplulimab_65w.pdb 1903.13 
+Serplulimab_121w.pdb Serplulimab_121w.pdb 114.442 -69.9004 -45.5143 -243.861 403.817 0 0 0 0 0 Serplulimab_121w.pdb 14 0 0 0 Serplulimab_121w.pdb 2048 
+Serplulimab_113w.pdb Serplulimab_113w.pdb 162.392 -65.557 -51.2123 -143.447 357.051 0 0 0 0 0 Serplulimab_113w.pdb 11 0 0 0 Serplulimab_113w.pdb 1961.13 
+Serplulimab_196w.pdb Serplulimab_196w.pdb 94.7819 -57.9922 -38.9807 -190.115 323.878 0 0 0 0 0 Serplulimab_196w.pdb 11 0 0 0 Serplulimab_196w.pdb 1768.05 

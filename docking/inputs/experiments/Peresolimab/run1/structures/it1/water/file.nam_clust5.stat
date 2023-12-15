@@ -1,0 +1,13 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Peresolimab_3w.pdb Peresolimab_3w.pdb 207.892 -87.1309 -71.6596 -154.713 434.265 0 0 0 0 0 Peresolimab_3w.pdb 11 0 0 0 Peresolimab_3w.pdb 2104.48 
+Peresolimab_57w.pdb Peresolimab_57w.pdb 335.572 -84.4295 -65.5869 -188.426 589.585 0 0 0 0 0 Peresolimab_57w.pdb 15 0 0 0 Peresolimab_57w.pdb 1974.92 
+Peresolimab_37w.pdb Peresolimab_37w.pdb 336.704 -66.0071 -53.8642 -121.429 511.997 0 0 0 0 0 Peresolimab_37w.pdb 14 0 0 0 Peresolimab_37w.pdb 1848.62 
+Peresolimab_78w.pdb Peresolimab_78w.pdb 362.184 -66.9949 -48.8336 -181.613 592.631 0 0 0 0 0 Peresolimab_78w.pdb 15 0 0 0 Peresolimab_78w.pdb 1902.16 
+Peresolimab_74w.pdb Peresolimab_74w.pdb 363.054 -62.8913 -44.1331 -187.582 594.77 0 0 0 0 0 Peresolimab_74w.pdb 14 0 0 0 Peresolimab_74w.pdb 1817.87 
+Peresolimab_89w.pdb Peresolimab_89w.pdb 417.143 -64.3519 -49.3015 -150.504 616.949 0 0 0 0 0 Peresolimab_89w.pdb 15 0 0 0 Peresolimab_89w.pdb 1885.51 
+Peresolimab_96w.pdb Peresolimab_96w.pdb 351.636 -52.8372 -37.372 -154.652 543.66 0 0 0 0 0 Peresolimab_96w.pdb 13 0 0 0 Peresolimab_96w.pdb 1870.51 
+Peresolimab_21w.pdb Peresolimab_21w.pdb 392.994 -62.5045 -45.421 -170.835 609.25 0 0 0 0 0 Peresolimab_21w.pdb 17 0 0 0 Peresolimab_21w.pdb 1874.04 
+Peresolimab_42w.pdb Peresolimab_42w.pdb 379.073 -58.8405 -39.8302 -190.103 609.007 0 0 0 0 0 Peresolimab_42w.pdb 17 0 0 0 Peresolimab_42w.pdb 1929.33 
+Peresolimab_10w.pdb Peresolimab_10w.pdb 419.456 -63.5611 -47.3704 -161.907 628.734 0 0 0 0 0 Peresolimab_10w.pdb 17 0 0 0 Peresolimab_10w.pdb 1825.67 
+Peresolimab_189w.pdb Peresolimab_189w.pdb 501.793 -67.1905 -51.2967 -158.938 712.028 0 0 0 0 0 Peresolimab_189w.pdb 18 0 0 0 Peresolimab_189w.pdb 1940.69 
+Peresolimab_157w.pdb Peresolimab_157w.pdb 477.008 -48.9007 -33.9158 -149.849 660.772 0 0 0 0 0 Peresolimab_157w.pdb 17 0 0 0 Peresolimab_157w.pdb 1859.66 

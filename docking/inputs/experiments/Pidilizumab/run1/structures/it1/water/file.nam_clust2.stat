@@ -1,0 +1,18 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Pidilizumab_1w.pdb Pidilizumab_1w.pdb 84.4152 -68.0149 -58.0526 -99.6229 242.091 0 0 0 0 0 Pidilizumab_1w.pdb 7 0 0 0 Pidilizumab_1w.pdb 1558.62 
+Pidilizumab_45w.pdb Pidilizumab_45w.pdb 262.368 -78.4923 -68.8858 -96.0649 427.319 0 0 0 0 0 Pidilizumab_45w.pdb 12 0 0 0 Pidilizumab_45w.pdb 1728.94 
+Pidilizumab_23w.pdb Pidilizumab_23w.pdb 65.0769 -53.7604 -33.9443 -198.161 297.182 0 0 0 0 0 Pidilizumab_23w.pdb 8 0 0 0 Pidilizumab_23w.pdb 1392.05 
+Pidilizumab_67w.pdb Pidilizumab_67w.pdb 296.868 -74.7956 -62.5542 -122.414 481.836 0 0 0 0 0 Pidilizumab_67w.pdb 13 0 0 0 Pidilizumab_67w.pdb 1720.19 
+Pidilizumab_177w.pdb Pidilizumab_177w.pdb 353.669 -76.0145 -67.4537 -85.6078 506.73 0 0 0 0 0 Pidilizumab_177w.pdb 13 0 0 0 Pidilizumab_177w.pdb 1756.09 
+Pidilizumab_141w.pdb Pidilizumab_141w.pdb 323.074 -75.8057 -56.1443 -196.614 575.832 0 0 0 0 0 Pidilizumab_141w.pdb 16 0 0 0 Pidilizumab_141w.pdb 1986.75 
+Pidilizumab_63w.pdb Pidilizumab_63w.pdb 274.327 -68.357 -60.1178 -82.392 416.837 0 0 0 0 0 Pidilizumab_63w.pdb 10 0 0 0 Pidilizumab_63w.pdb 1690.19 
+Pidilizumab_83w.pdb Pidilizumab_83w.pdb 361.056 -68.9384 -59.4939 -94.445 514.995 0 0 0 0 0 Pidilizumab_83w.pdb 14 0 0 0 Pidilizumab_83w.pdb 1575.37 
+Pidilizumab_5w.pdb Pidilizumab_5w.pdb 258.6 -53.6727 -44.751 -89.2174 392.569 0 0 0 0 0 Pidilizumab_5w.pdb 11 0 0 0 Pidilizumab_5w.pdb 1574.01 
+Pidilizumab_27w.pdb Pidilizumab_27w.pdb 370.632 -67.2762 -61.018 -62.5824 494.232 0 0 0 0 0 Pidilizumab_27w.pdb 13 0 0 0 Pidilizumab_27w.pdb 1581.09 
+Pidilizumab_132w.pdb Pidilizumab_132w.pdb 304.153 -66.5607 -56.5339 -100.268 460.955 0 0 0 0 0 Pidilizumab_132w.pdb 12 0 0 0 Pidilizumab_132w.pdb 1673.21 
+Pidilizumab_126w.pdb Pidilizumab_126w.pdb 405.393 -62.4948 -53.2408 -92.54 551.173 0 0 0 0 0 Pidilizumab_126w.pdb 14 0 0 0 Pidilizumab_126w.pdb 1657.91 
+Pidilizumab_165w.pdb Pidilizumab_165w.pdb 448.421 -70.4413 -62.3596 -80.8167 591.598 0 0 0 0 0 Pidilizumab_165w.pdb 15 0 0 0 Pidilizumab_165w.pdb 1597.01 
+Pidilizumab_37w.pdb Pidilizumab_37w.pdb 400.794 -61.8045 -53.6017 -82.0279 536.424 0 0 0 0 0 Pidilizumab_37w.pdb 15 0 0 0 Pidilizumab_37w.pdb 1480.15 
+Pidilizumab_134w.pdb Pidilizumab_134w.pdb 383.989 -59.1586 -48.0307 -111.279 543.298 0 0 0 0 0 Pidilizumab_134w.pdb 15 0 0 0 Pidilizumab_134w.pdb 1627.15 
+Pidilizumab_28w.pdb Pidilizumab_28w.pdb 346.787 -52.0288 -37.0523 -149.765 533.605 0 0 0 0 0 Pidilizumab_28w.pdb 16 0 0 0 Pidilizumab_28w.pdb 1567.77 
+Pidilizumab_145w.pdb Pidilizumab_145w.pdb 441.545 -52.7401 -39.4749 -132.652 613.672 0 0 0 0 0 Pidilizumab_145w.pdb 18 0 0 0 Pidilizumab_145w.pdb 1561.25 

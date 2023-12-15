@@ -1,0 +1,13 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Pembrolizumab_7w.pdb Pembrolizumab_7w.pdb 394.611 -73.6419 -61.6237 -120.182 576.417 0 0 0 0 0 Pembrolizumab_7w.pdb 16 0 0 0 Pembrolizumab_7w.pdb 2027.61 
+Pembrolizumab_12w.pdb Pembrolizumab_12w.pdb 406.056 -69.9851 -61.2475 -87.3764 554.68 0 0 0 0 0 Pembrolizumab_12w.pdb 15 0 0 0 Pembrolizumab_12w.pdb 1861.56 
+Pembrolizumab_44w.pdb Pembrolizumab_44w.pdb 419.962 -70.9173 -56.5693 -143.48 620.011 0 0 0 0 0 Pembrolizumab_44w.pdb 16 0 0 0 Pembrolizumab_44w.pdb 2038.52 
+Pembrolizumab_66w.pdb Pembrolizumab_66w.pdb 471.244 -68.6414 -53.5718 -150.696 675.511 0 0 0 0 0 Pembrolizumab_66w.pdb 19 0 0 0 Pembrolizumab_66w.pdb 1925.74 
+Pembrolizumab_67w.pdb Pembrolizumab_67w.pdb 429.974 -59.4294 -43.5012 -159.282 632.757 0 0 0 0 0 Pembrolizumab_67w.pdb 15 0 0 0 Pembrolizumab_67w.pdb 1860.15 
+Pembrolizumab_71w.pdb Pembrolizumab_71w.pdb 493.196 -65.5392 -52.5398 -129.994 675.73 0 0 0 0 0 Pembrolizumab_71w.pdb 18 0 0 0 Pembrolizumab_71w.pdb 1987.29 
+Pembrolizumab_108w.pdb Pembrolizumab_108w.pdb 518.06 -64.7109 -49.5365 -151.744 719.34 0 0 0 0 0 Pembrolizumab_108w.pdb 19 0 0 0 Pembrolizumab_108w.pdb 1997.28 
+Pembrolizumab_60w.pdb Pembrolizumab_60w.pdb 555.673 -68.6236 -54.8044 -138.192 748.669 0 0 0 0 0 Pembrolizumab_60w.pdb 21 0 0 0 Pembrolizumab_60w.pdb 1861.25 
+Pembrolizumab_197w.pdb Pembrolizumab_197w.pdb 490.187 -57.4644 -47.7352 -97.2921 635.214 0 0 0 0 0 Pembrolizumab_197w.pdb 17 0 0 0 Pembrolizumab_197w.pdb 1608.39 
+Pembrolizumab_156w.pdb Pembrolizumab_156w.pdb 546.052 -62.951 -49.0373 -139.137 734.227 0 0 0 0 0 Pembrolizumab_156w.pdb 19 0 0 0 Pembrolizumab_156w.pdb 1952.3 
+Pembrolizumab_137w.pdb Pembrolizumab_137w.pdb 587.079 -59.3114 -49.0503 -102.611 738.74 0 0 0 0 0 Pembrolizumab_137w.pdb 19 0 0 0 Pembrolizumab_137w.pdb 1743.81 
+Pembrolizumab_113w.pdb Pembrolizumab_113w.pdb 590.701 -64.8396 -51.7111 -131.285 773.697 0 0 0 0 0 Pembrolizumab_113w.pdb 21 0 0 0 Pembrolizumab_113w.pdb 1985.31 

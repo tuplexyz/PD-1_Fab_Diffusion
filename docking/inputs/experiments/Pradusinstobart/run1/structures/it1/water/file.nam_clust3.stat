@@ -1,0 +1,20 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Pradusinstobart_80w.pdb Pradusinstobart_80w.pdb 341.962 -63.1972 -51.6479 -115.493 509.102 0 0 0 0 0 Pradusinstobart_80w.pdb 13 0 0 0 Pradusinstobart_80w.pdb 1852.55 
+Pradusinstobart_29w.pdb Pradusinstobart_29w.pdb 330.096 -68.7875 -59.1815 -96.0595 485.337 0 0 0 0 0 Pradusinstobart_29w.pdb 13 0 0 0 Pradusinstobart_29w.pdb 1875.37 
+Pradusinstobart_47w.pdb Pradusinstobart_47w.pdb 393.392 -68.3284 -57.0767 -112.517 562.985 0 0 0 0 0 Pradusinstobart_47w.pdb 15 0 0 0 Pradusinstobart_47w.pdb 1737.19 
+Pradusinstobart_86w.pdb Pradusinstobart_86w.pdb 426.446 -73.3042 -62.0846 -112.196 600.727 0 0 0 0 0 Pradusinstobart_86w.pdb 15 0 0 0 Pradusinstobart_86w.pdb 1677.89 
+Pradusinstobart_56w.pdb Pradusinstobart_56w.pdb 417.937 -64.8709 -54.6357 -102.352 574.925 0 0 0 0 0 Pradusinstobart_56w.pdb 16 0 0 0 Pradusinstobart_56w.pdb 1668.69 
+Pradusinstobart_193w.pdb Pradusinstobart_193w.pdb 484.813 -71.3161 -60.7291 -105.87 651.412 0 0 0 0 0 Pradusinstobart_193w.pdb 16 0 0 0 Pradusinstobart_193w.pdb 1713.1 
+Pradusinstobart_185w.pdb Pradusinstobart_185w.pdb 441.296 -70.4312 -57.2104 -132.208 630.714 0 0 0 0 0 Pradusinstobart_185w.pdb 16 0 0 0 Pradusinstobart_185w.pdb 1721.75 
+Pradusinstobart_14w.pdb Pradusinstobart_14w.pdb 336.808 -59.5393 -48.6947 -108.446 493.949 0 0 0 0 0 Pradusinstobart_14w.pdb 12 0 0 0 Pradusinstobart_14w.pdb 1689.41 
+Pradusinstobart_173w.pdb Pradusinstobart_173w.pdb 322.225 -64.0891 -50.296 -137.931 510.452 0 0 0 0 0 Pradusinstobart_173w.pdb 15 0 0 0 Pradusinstobart_173w.pdb 1867.61 
+Pradusinstobart_9w.pdb Pradusinstobart_9w.pdb 445.185 -57.802 -49.0934 -87.0857 581.365 0 0 0 0 0 Pradusinstobart_9w.pdb 16 0 0 0 Pradusinstobart_9w.pdb 1544.94 
+Pradusinstobart_187w.pdb Pradusinstobart_187w.pdb 523.848 -65.7467 -54.6032 -111.435 689.887 0 0 0 0 0 Pradusinstobart_187w.pdb 20 0 0 0 Pradusinstobart_187w.pdb 1910.63 
+Pradusinstobart_97w.pdb Pradusinstobart_97w.pdb 471.44 -60.6087 -50.7953 -98.1343 620.37 0 0 0 0 0 Pradusinstobart_97w.pdb 17 0 0 0 Pradusinstobart_97w.pdb 1667.26 
+Pradusinstobart_111w.pdb Pradusinstobart_111w.pdb 525.74 -58.9175 -48.7176 -101.999 676.457 0 0 0 0 0 Pradusinstobart_111w.pdb 18 0 0 0 Pradusinstobart_111w.pdb 1759.14 
+Pradusinstobart_102w.pdb Pradusinstobart_102w.pdb 502.471 -58.9646 -48.264 -107.006 657.741 0 0 0 0 0 Pradusinstobart_102w.pdb 16 0 0 0 Pradusinstobart_102w.pdb 1606.78 
+Pradusinstobart_88w.pdb Pradusinstobart_88w.pdb 433.059 -49.3287 -39.0563 -102.724 574.84 0 0 0 0 0 Pradusinstobart_88w.pdb 15 0 0 0 Pradusinstobart_88w.pdb 1795.69 
+Pradusinstobart_74w.pdb Pradusinstobart_74w.pdb 499.786 -59.4195 -50.2725 -91.4698 641.528 0 0 0 0 0 Pradusinstobart_74w.pdb 17 0 0 0 Pradusinstobart_74w.pdb 1622.72 
+Pradusinstobart_134w.pdb Pradusinstobart_134w.pdb 571.978 -59.0493 -52.1394 -69.0994 693.217 0 0 0 0 0 Pradusinstobart_134w.pdb 18 0 0 0 Pradusinstobart_134w.pdb 1618.78 
+Pradusinstobart_166w.pdb Pradusinstobart_166w.pdb 575.272 -54.2404 -44.1938 -100.466 719.932 0 0 0 0 0 Pradusinstobart_166w.pdb 18 0 0 0 Pradusinstobart_166w.pdb 1552.41 
+Pradusinstobart_108w.pdb Pradusinstobart_108w.pdb 569.654 -50.4538 -41.6782 -87.7564 699.088 0 0 0 0 0 Pradusinstobart_108w.pdb 19 0 0 0 Pradusinstobart_108w.pdb 1705.56 

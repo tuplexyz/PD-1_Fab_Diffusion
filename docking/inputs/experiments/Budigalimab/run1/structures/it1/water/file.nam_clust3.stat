@@ -1,0 +1,8 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Budigalimab_16w.pdb Budigalimab_16w.pdb 170.319 -70.7933 -53.9911 -168.022 392.332 0 0 0 0 0 Budigalimab_16w.pdb 11 0 0 0 Budigalimab_16w.pdb 1941.78 
+Budigalimab_165w.pdb Budigalimab_165w.pdb 287.878 -82.1529 -64.0433 -181.096 533.016 0 0 0 0 0 Budigalimab_165w.pdb 15 0 0 0 Budigalimab_165w.pdb 2053.63 
+Budigalimab_78w.pdb Budigalimab_78w.pdb 315.87 -70.1369 -57.11 -130.269 503.25 0 0 0 0 0 Budigalimab_78w.pdb 16 0 0 0 Budigalimab_78w.pdb 2022.58 
+Budigalimab_144w.pdb Budigalimab_144w.pdb 376.757 -74.7943 -64.073 -107.213 548.043 0 0 0 0 0 Budigalimab_144w.pdb 14 0 0 0 Budigalimab_144w.pdb 1993.8 
+Budigalimab_100w.pdb Budigalimab_100w.pdb 352.696 -77.1096 -66.5818 -105.278 524.556 0 0 0 0 0 Budigalimab_100w.pdb 13 0 0 0 Budigalimab_100w.pdb 1943.83 
+Budigalimab_139w.pdb Budigalimab_139w.pdb 306.83 -61.6474 -46.6903 -149.571 503.091 0 0 0 0 0 Budigalimab_139w.pdb 12 0 0 0 Budigalimab_139w.pdb 1855.42 
+Budigalimab_198w.pdb Budigalimab_198w.pdb 330.781 -63.9964 -48.9775 -150.189 529.947 0 0 0 0 0 Budigalimab_198w.pdb 15 0 0 0 Budigalimab_198w.pdb 1778.5 
