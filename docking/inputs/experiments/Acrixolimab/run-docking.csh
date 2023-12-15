@@ -27,7 +27,7 @@ cd ..
 # ../results-stats.csh run1
 
 ## Clean up unnecessary files
-# python3 cleanup.py
+python3 cleanup.py
 
 ## Print done message
 echo "==========================================================="
