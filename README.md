@@ -8,7 +8,7 @@
 0. Generate Sequences using EvoDiff
     - Follow EvoDiff logic in `scripts/0_sequence_generation/EvoDiff_sequence_generation.md`
 1. Generate Structures using AlphaFold2
-    - Run AlphaFold2 Batch using `scripts\1_structure_generation\AlphaFold2_batch.ipynb`
+    - Run AlphaFold2 Batch using `scripts/1_structure_generation/AlphaFold2_batch.ipynb`
 2. Prepare Structures
     - Renumber L chains in PDB files with PyMol: `scripts/2_structure_prep/PDB_renumberer.ipynb`
     - Detect CDR loop residues: `scripts/2_structure_prep/fab_cdr_detection.ipynb`

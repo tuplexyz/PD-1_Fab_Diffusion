@@ -1,0 +1,11 @@
+#!/bin/csh
+cd ./
+setenv RUN ./
+setenv NEWIT $RUN/structures/it1/water
+python2 ./tools/make_contacts.py $NEWIT/analysis/*fit_*pdb
+foreach i ($NEWIT/analysis/*fit_*.contacts)
+  grep -v "-" $i >$i.tmp
+  \mv $i.tmp $i
+end
+python2 ./tools/calc_fcc_matrix.py $NEWIT/analysis/*fit_*contacts -o $NEWIT/analysis/TUPPD1-005_fcc.disp -H >& $NEWIT/analysis/fcc.out
+gzip -f $NEWIT/analysis/fcc.out

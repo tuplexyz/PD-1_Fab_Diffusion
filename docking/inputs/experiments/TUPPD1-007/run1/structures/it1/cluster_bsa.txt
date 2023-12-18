@@ -1,0 +1,6 @@
+#Cluster BSA sd
+file.nam_clust1 1828.998   57.144 
+file.nam_clust2  608.708   80.094 
+file.nam_clust3 1338.900  207.037 
+file.nam_clust4  943.049  117.354 
+file.nam_clust5 1731.352   75.524 

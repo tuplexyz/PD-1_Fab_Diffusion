@@ -1,0 +1,11 @@
+#!/bin/csh
+    cd ./
+    setenv CURRIT 2
+    setenv RUN ./
+    setenv NEWIT $RUN/structures/it1/water
+    setenv PREVIT $RUN/structures/it1/water
+    setenv TEMPTRASH $RUN
+    protocols/cns1 < protocols/get_average.inp >! $NEWIT//analysis/get_average.out
+    gzip $NEWIT//analysis/get_average.out
+    rm -rf $NEWIT//analysis/TUPPD1-001.crd
+    

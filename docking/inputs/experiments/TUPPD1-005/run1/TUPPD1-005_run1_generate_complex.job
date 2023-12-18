@@ -1,0 +1,9 @@
+#!/bin/csh
+setenv CURRIT 0
+setenv NEWIT
+setenv PREVIT
+setenv RUN ./
+setenv BEGIN ./begin
+setenv TEMPTRASH $RUN
+protocols/cns1 < /users/cford38/PD1_Fab_Diffusion/docking/inputs/experiments/TUPPD1-005/run1/protocols/generate_complex.inp >! /users/cford38/PD1_Fab_Diffusion/docking/inputs/experiments/TUPPD1-005/run1/begin/generate_complex.out
+        

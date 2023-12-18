@@ -1,0 +1,18 @@
+#!/bin/csh
+
+
+setenv CURRIT 2
+setenv RUN ./
+setenv NEWIT $RUN/structures/it1
+setenv PREVIT $RUN/structures/it1
+setenv TEMPTRASH $RUN
+protocols/cns1 < TUPPD1-007_run1_1w.inp >! TUPPD1-007_run1_1w.out
+./tools/check-error-messages.csh TUPPD1-007_run1_1w.out
+if ( -e ./structures/it1/water/TUPPD1-007_1w.pdb0 ) then
+  python protocols/RemoveBadPDB.py ./structures/it1/water/TUPPD1-007_1w.pdb
+endif
+if ( -e ./structures/it1/NONE0 ) then
+  python protocols/RemoveBadPDB.py ./structures/it1/NONE
+endif
+gzip -f TUPPD1-007_run1_1w.out
+

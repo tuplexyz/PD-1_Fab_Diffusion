@@ -1,0 +1,13 @@
+#Cluster haddock-score sd
+file.nam_clust1  -19.783   35.522 
+file.nam_clust2  -25.437   32.563 
+file.nam_clust3  -31.519   37.483 
+file.nam_clust4   14.904   18.557 
+file.nam_clust5  -28.218   16.413 
+file.nam_clust6  -48.829   28.317 
+file.nam_clust7   40.323   17.081 
+file.nam_clust8  -57.200   30.784 
+file.nam_clust9  -69.667   32.227 
+file.nam_clust10   21.527   16.020 
+file.nam_clust11  -21.833   24.795 
+file.nam_clust12  -80.538    4.222 
