@@ -2,8 +2,6 @@
 
 <h3 align="right">Tuple, LLC</h3>
 
-
-
 ## Steps:
 0. Generate Sequences using EvoDiff
     - Follow EvoDiff logic in `scripts/0_sequence_generation/EvoDiff_sequence_generation.md`
