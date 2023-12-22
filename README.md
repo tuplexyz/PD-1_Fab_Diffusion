@@ -17,3 +17,7 @@
     - Run experiment generation: `bash ./scripts/4_experiment_submission/submit_experiments.sh`
         - (Remember to `chmod -R 755` the `experiments/` folder so that Singularity can execute the scripts.)
 5. Collect best docked PDB structure and metrics for each experiment
+    - Run experiment metrics collection: `scripts/5_metrics_collection/postprocessing.ipynb`
+        - This notebook also runs PRODIGY to calculate binding affinities for each structure.
+6. Clean up HADDOCK run files
+    - Run cleanup to move each experiments' run1/ directory into outputs: `scripts/6_cleanup/cleanup.ipynb`
