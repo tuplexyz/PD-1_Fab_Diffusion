@@ -1,2 +1,0 @@
-#Cluster rmsd sd
-file.nam_clust1 file.nam_clust2 file.nam_clust3 file.nam_clust4 file.nam_clust5 file.nam_clust6 file.nam_clust7 file.nam_clust8 

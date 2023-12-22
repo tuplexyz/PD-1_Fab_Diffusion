@@ -1,5 +1,0 @@
-#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
-Sasanlimab_98w.pdb Sasanlimab_98w.pdb 442.524 -70.3635 -57.1266 -132.369 632.019 0 0 0 0 0 Sasanlimab_98w.pdb 16 0 0 0 Sasanlimab_98w.pdb 1811.11 
-Sasanlimab_32w.pdb Sasanlimab_32w.pdb 536.603 -59.7142 -54.2594 -54.5483 645.411 0 0 0 0 0 Sasanlimab_32w.pdb 17 0 0 0 Sasanlimab_32w.pdb 1711.91 
-Sasanlimab_39w.pdb Sasanlimab_39w.pdb 513.318 -60.5059 -53.4789 -70.2696 637.067 0 0 0 0 0 Sasanlimab_39w.pdb 16 0 0 0 Sasanlimab_39w.pdb 1823.52 
-Sasanlimab_164w.pdb Sasanlimab_164w.pdb 444.652 -51.5745 -43.2067 -83.6779 571.536 0 0 0 0 0 Sasanlimab_164w.pdb 15 0 0 0 Sasanlimab_164w.pdb 1502.52 

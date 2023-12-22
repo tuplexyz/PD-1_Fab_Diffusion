@@ -1,0 +1,20 @@
+module(filenames;)
+set message off echo off end
+evaluate ($count = 1)
+while ($count le 2000) loop main
+   evaluate (&filenames.bestfile_$count = "")
+   evaluate ($count = $count + 1)
+end loop main
+set message on echo on end
+evaluate (&filenames.bestfile_1="PREVIT:Camrelizumab_59w.pdb")
+evaluate (&filenames.bestfile_2="PREVIT:Camrelizumab_63w.pdb")
+evaluate (&filenames.bestfile_3="PREVIT:Camrelizumab_57w.pdb")
+evaluate (&filenames.bestfile_4="PREVIT:Camrelizumab_115w.pdb")
+evaluate (&filenames.bestfile_5="PREVIT:Camrelizumab_117w.pdb")
+evaluate (&filenames.bestfile_6="PREVIT:Camrelizumab_64w.pdb")
+evaluate (&filenames.bestfile_7="PREVIT:Camrelizumab_199w.pdb")
+evaluate (&filenames.bestfile_8="PREVIT:Camrelizumab_55w.pdb")
+evaluate (&filenames.bestfile_9="PREVIT:Camrelizumab_108w.pdb")
+evaluate (&filenames.bestfile_10="PREVIT:Camrelizumab_122w.pdb")
+evaluate (&filenames.bestfile_11="PREVIT:Camrelizumab_84w.pdb")
+evaluate (&filenames.bestfile_12="PREVIT:Camrelizumab_89w.pdb")

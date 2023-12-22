@@ -1,3 +1,0 @@
-#Cluster #Edesolv sd
-file.nam_clust1   -5.905    3.138 
-file.nam_clust2   -1.138    2.318 

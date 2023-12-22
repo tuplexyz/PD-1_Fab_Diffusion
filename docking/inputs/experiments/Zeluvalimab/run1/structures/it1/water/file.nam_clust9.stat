@@ -1,5 +1,0 @@
-#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
-Zeluvalimab_8w.pdb Zeluvalimab_8w.pdb 422.216 -70.1037 -65.012 -50.9171 538.145 0 0 0 0 0 Zeluvalimab_8w.pdb 14 0 0 0 Zeluvalimab_8w.pdb 1907.08 
-Zeluvalimab_22w.pdb Zeluvalimab_22w.pdb 472.46 -60.3813 -55.4859 -48.9538 576.9 0 0 0 0 0 Zeluvalimab_22w.pdb 16 0 0 0 Zeluvalimab_22w.pdb 1837.78 
-Zeluvalimab_172w.pdb Zeluvalimab_172w.pdb 545.849 -68.377 -57.4855 -108.915 712.249 0 0 0 0 0 Zeluvalimab_172w.pdb 19 0 0 0 Zeluvalimab_172w.pdb 1846.85 
-Zeluvalimab_142w.pdb Zeluvalimab_142w.pdb 597.607 -55.6307 -49.692 -59.3871 706.686 0 0 0 0 0 Zeluvalimab_142w.pdb 19 0 0 0 Zeluvalimab_142w.pdb 1717.75 

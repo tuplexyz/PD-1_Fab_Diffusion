@@ -1,6 +1,0 @@
-#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
-Sintilimab_6w.pdb Sintilimab_6w.pdb 146.475 -68.8412 -56.7078 -121.334 324.516 0 0 0 0 0 Sintilimab_6w.pdb 9 0 0 0 Sintilimab_6w.pdb 1892.36 
-Sintilimab_157w.pdb Sintilimab_157w.pdb 317.598 -68.5436 -57.1397 -114.039 488.777 0 0 0 0 0 Sintilimab_157w.pdb 14 0 0 0 Sintilimab_157w.pdb 1938.75 
-Sintilimab_121w.pdb Sintilimab_121w.pdb 294.654 -64.6636 -51.7817 -128.819 475.255 0 0 0 0 0 Sintilimab_121w.pdb 16 0 0 0 Sintilimab_121w.pdb 1930.83 
-Sintilimab_172w.pdb Sintilimab_172w.pdb 373.243 -62.7783 -51.0897 -116.886 541.219 0 0 0 0 0 Sintilimab_172w.pdb 17 0 0 0 Sintilimab_172w.pdb 1900.13 
-Sintilimab_128w.pdb Sintilimab_128w.pdb 374.334 -63.9591 -52.7757 -111.834 538.945 0 0 0 0 0 Sintilimab_128w.pdb 15 0 0 0 Sintilimab_128w.pdb 1840.68 

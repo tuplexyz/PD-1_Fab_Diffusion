@@ -1,0 +1,11 @@
+#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
+Iparomlimab_17w.pdb Iparomlimab_17w.pdb 437.335 -63.4878 -48.1229 -153.649 639.107 0 0 0 0 0 Iparomlimab_17w.pdb 16 0 0 0 Iparomlimab_17w.pdb 1639.61 
+Iparomlimab_89w.pdb Iparomlimab_89w.pdb 442.106 -61.5468 -50.7172 -108.296 601.119 0 0 0 0 0 Iparomlimab_89w.pdb 17 0 0 0 Iparomlimab_89w.pdb 1618.51 
+Iparomlimab_70w.pdb Iparomlimab_70w.pdb 575.384 -72.6484 -58.2467 -144.017 777.647 0 0 0 0 0 Iparomlimab_70w.pdb 19 0 0 0 Iparomlimab_70w.pdb 1609.55 
+Iparomlimab_68w.pdb Iparomlimab_68w.pdb 538.185 -61.5 -45.6127 -158.873 742.67 0 0 0 0 0 Iparomlimab_68w.pdb 20 0 0 0 Iparomlimab_68w.pdb 1559.07 
+Iparomlimab_32w.pdb Iparomlimab_32w.pdb 530.451 -55.7334 -44.6184 -111.15 686.219 0 0 0 0 0 Iparomlimab_32w.pdb 17 0 0 0 Iparomlimab_32w.pdb 1605 
+Iparomlimab_188w.pdb Iparomlimab_188w.pdb 634.998 -61.5596 -49.9139 -116.457 801.369 0 0 0 0 0 Iparomlimab_188w.pdb 21 0 0 0 Iparomlimab_188w.pdb 1729.98 
+Iparomlimab_185w.pdb Iparomlimab_185w.pdb 606.529 -63.6649 -54.0409 -96.2395 756.809 0 0 0 0 0 Iparomlimab_185w.pdb 20 0 0 0 Iparomlimab_185w.pdb 1755.07 
+Iparomlimab_159w.pdb Iparomlimab_159w.pdb 588.366 -59.2931 -48.0918 -112.013 748.471 0 0 0 0 0 Iparomlimab_159w.pdb 19 0 0 0 Iparomlimab_159w.pdb 1698.86 
+Iparomlimab_153w.pdb Iparomlimab_153w.pdb 692.908 -66.7279 -57.8576 -88.7029 839.468 0 0 0 0 0 Iparomlimab_153w.pdb 21 0 0 0 Iparomlimab_153w.pdb 1739.67 
+Iparomlimab_182w.pdb Iparomlimab_182w.pdb 703.953 -58.1508 -43.6662 -144.846 892.465 0 0 0 0 0 Iparomlimab_182w.pdb 22 0 0 0 Iparomlimab_182w.pdb 1625.04 

@@ -1,9 +1,0 @@
-#Structure rmsd_all i-RMSD Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani #NOEviol #Dihedviol #Coupviol #Veanviol #Daniviol BSA
-Penpulimab_52w.pdb Penpulimab_52w.pdb 188.669 -99.3111 -81.4959 -178.152 448.317 0 0 0 0 0 Penpulimab_52w.pdb 12 0 0 0 Penpulimab_52w.pdb 2219.58 
-Penpulimab_8w.pdb Penpulimab_8w.pdb 238.227 -82.7679 -66.6526 -161.153 466.032 0 0 0 0 0 Penpulimab_8w.pdb 13 0 0 0 Penpulimab_8w.pdb 1925.74 
-Penpulimab_168w.pdb Penpulimab_168w.pdb 192.477 -79.215 -59.7527 -194.623 446.853 0 0 0 0 0 Penpulimab_168w.pdb 13 0 0 0 Penpulimab_168w.pdb 2147.65 
-Penpulimab_135w.pdb Penpulimab_135w.pdb 348.335 -87.6558 -74.5775 -130.783 553.696 0 0 0 0 0 Penpulimab_135w.pdb 14 0 0 0 Penpulimab_135w.pdb 2173.53 
-Penpulimab_40w.pdb Penpulimab_40w.pdb 301.72 -75.9848 -59.011 -169.738 530.469 0 0 0 0 0 Penpulimab_40w.pdb 14 0 0 0 Penpulimab_40w.pdb 1999.06 
-Penpulimab_113w.pdb Penpulimab_113w.pdb 415.135 -75.9059 -61.3469 -145.59 622.072 0 0 0 0 0 Penpulimab_113w.pdb 17 0 0 0 Penpulimab_113w.pdb 2021.84 
-Penpulimab_47w.pdb Penpulimab_47w.pdb 448.261 -74.314 -63.8326 -104.814 616.908 0 0 0 0 0 Penpulimab_47w.pdb 17 0 0 0 Penpulimab_47w.pdb 1878.84 
-Penpulimab_87w.pdb Penpulimab_87w.pdb 432.74 -69.8623 -54.0837 -157.786 644.61 0 0 0 0 0 Penpulimab_87w.pdb 18 0 0 0 Penpulimab_87w.pdb 1941.01 
