@@ -53,8 +53,8 @@
             <column datatype='string' name='haddock_best_cluster' ordinal='18' />
             <column datatype='string' name='haddock_best_pdb_path' ordinal='19' />
             <column datatype='integer' name='haddock_Nstruc' ordinal='20' />
-            <column datatype='real' name='haddock_Evdw+0.1Eelec' ordinal='21' />
-            <column datatype='real' name='haddock_Evdw+0.1Eelec_sd' ordinal='22' />
+            <column datatype='real' name='haddock_Evdw_plus_0.1Eelec' ordinal='21' />
+            <column datatype='real' name='haddock_Evdw_plus_0.1Eelec_sd' ordinal='22' />
             <column datatype='real' name='haddock_Evdw' ordinal='23' />
             <column datatype='real' name='haddock_Evdw_sd' ordinal='24' />
             <column datatype='real' name='haddock_Eelec' ordinal='25' />
@@ -69,8 +69,8 @@
             <column datatype='integer' name='haddock_dihedviol_sd' ordinal='34' />
             <column datatype='real' name='haddock_BSA' ordinal='35' />
             <column datatype='real' name='haddock_BSA_sd' ordinal='36' />
-            <column datatype='real' name='haddock-score' ordinal='37' />
-            <column datatype='real' name='haddock-score_sd' ordinal='38' />
+            <column datatype='real' name='haddock_score' ordinal='37' />
+            <column datatype='real' name='haddock_score_sd' ordinal='38' />
             <column datatype='real' name='haddock_prodigy_deltaG_kcalpermol' ordinal='39' />
             <column datatype='real' name='haddock_prodigy_dissociation_constant_M' ordinal='40' />
           </columns>
@@ -98,8 +98,8 @@
             <column datatype='string' name='haddock_best_cluster' ordinal='18' />
             <column datatype='string' name='haddock_best_pdb_path' ordinal='19' />
             <column datatype='integer' name='haddock_Nstruc' ordinal='20' />
-            <column datatype='real' name='haddock_Evdw+0.1Eelec' ordinal='21' />
-            <column datatype='real' name='haddock_Evdw+0.1Eelec_sd' ordinal='22' />
+            <column datatype='real' name='haddock_Evdw_plus_0.1Eelec' ordinal='21' />
+            <column datatype='real' name='haddock_Evdw_plus_0.1Eelec_sd' ordinal='22' />
             <column datatype='real' name='haddock_Evdw' ordinal='23' />
             <column datatype='real' name='haddock_Evdw_sd' ordinal='24' />
             <column datatype='real' name='haddock_Eelec' ordinal='25' />
@@ -114,8 +114,8 @@
             <column datatype='integer' name='haddock_dihedviol_sd' ordinal='34' />
             <column datatype='real' name='haddock_BSA' ordinal='35' />
             <column datatype='real' name='haddock_BSA_sd' ordinal='36' />
-            <column datatype='real' name='haddock-score' ordinal='37' />
-            <column datatype='real' name='haddock-score_sd' ordinal='38' />
+            <column datatype='real' name='haddock_score' ordinal='37' />
+            <column datatype='real' name='haddock_score_sd' ordinal='38' />
             <column datatype='real' name='haddock_prodigy_deltaG_kcalpermol' ordinal='39' />
             <column datatype='real' name='haddock_prodigy_dissociation_constant_M' ordinal='40' />
           </columns>
@@ -469,11 +469,11 @@
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Migrated Data]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>haddock_Evdw+0.1Eelec</remote-name>
+            <remote-name>haddock_Evdw_plus_0.1Eelec</remote-name>
             <remote-type>5</remote-type>
-            <local-name>[haddock_Evdw+0.1Eelec]</local-name>
+            <local-name>[haddock_Evdw_plus_0.1Eelec]</local-name>
             <parent-name>[Sheet1]</parent-name>
-            <remote-alias>haddock_Evdw+0.1Eelec</remote-alias>
+            <remote-alias>haddock_Evdw_plus_0.1Eelec</remote-alias>
             <ordinal>21</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
@@ -485,11 +485,11 @@
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Migrated Data]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>haddock_Evdw+0.1Eelec_sd</remote-name>
+            <remote-name>haddock_Evdw_plus_0.1Eelec_sd</remote-name>
             <remote-type>5</remote-type>
-            <local-name>[haddock_Evdw+0.1Eelec_sd]</local-name>
+            <local-name>[haddock_Evdw_plus_0.1Eelec_sd]</local-name>
             <parent-name>[Sheet1]</parent-name>
-            <remote-alias>haddock_Evdw+0.1Eelec_sd</remote-alias>
+            <remote-alias>haddock_Evdw_plus_0.1Eelec_sd</remote-alias>
             <ordinal>22</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
@@ -723,11 +723,11 @@
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Migrated Data]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>haddock-score</remote-name>
+            <remote-name>haddock_score</remote-name>
             <remote-type>5</remote-type>
-            <local-name>[haddock-score]</local-name>
+            <local-name>[haddock_score]</local-name>
             <parent-name>[Sheet1]</parent-name>
-            <remote-alias>haddock-score</remote-alias>
+            <remote-alias>haddock_score</remote-alias>
             <ordinal>37</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
@@ -739,11 +739,11 @@
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Migrated Data]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>haddock-score_sd</remote-name>
+            <remote-name>haddock_score_sd</remote-name>
             <remote-type>5</remote-type>
-            <local-name>[haddock-score_sd]</local-name>
+            <local-name>[haddock_score_sd]</local-name>
             <parent-name>[Sheet1]</parent-name>
-            <remote-alias>haddock-score_sd</remote-alias>
+            <remote-alias>haddock_score_sd</remote-alias>
             <ordinal>38</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
@@ -811,8 +811,6 @@
       <column aggregation='None' datatype='integer' name='[haddock Evdw (bin)]' role='dimension' type='quantitative'>
         <calculation class='bin' decimals='0' formula='[haddock_Evdw]' peg='0' size='4.31' />
       </column>
-      <column caption='Haddock-Score' datatype='real' name='[haddock-score]' role='measure' type='quantitative' />
-      <column caption='Haddock-Score Sd' datatype='real' name='[haddock-score_sd]' role='measure' type='quantitative' />
       <column caption='haddock AIRviol' datatype='real' name='[haddock_AIRviol]' role='measure' type='quantitative' />
       <column caption='haddock AIRviol sd' datatype='real' name='[haddock_AIRviol_sd]' role='measure' type='quantitative' />
       <column caption='haddock BSA' datatype='real' name='[haddock_BSA]' role='measure' type='quantitative' />
@@ -823,8 +821,6 @@
       <column caption='haddock Edesolv sd' datatype='real' name='[haddock_Edesolv_sd]' role='measure' type='quantitative' />
       <column caption='haddock Eelec' datatype='real' name='[haddock_Eelec]' role='measure' type='quantitative' />
       <column caption='haddock Eelec sd' datatype='real' name='[haddock_Eelec_sd]' role='measure' type='quantitative' />
-      <column caption='haddock Evdw+0.1Eelec' datatype='real' name='[haddock_Evdw+0.1Eelec]' role='measure' type='quantitative' />
-      <column caption='haddock Evdw+0.1Eelec sd' datatype='real' name='[haddock_Evdw+0.1Eelec_sd]' role='measure' type='quantitative' />
       <column caption='haddock Evdw' datatype='real' name='[haddock_Evdw]' role='measure' type='quantitative' />
       <column caption='haddock Evdw sd' datatype='real' name='[haddock_Evdw_sd]' role='measure' type='quantitative' />
       <column caption='haddock Nstruc' datatype='integer' name='[haddock_Nstruc]' role='measure' type='quantitative' />
@@ -838,9 +834,18 @@
       <column caption='L Chain Cdr Residues' datatype='string' name='[l_chain_cdr_residues]' role='dimension' type='nominal' />
       <column caption='L Chain Version' datatype='integer' name='[l_chain_version]' role='measure' type='quantitative' />
       <column-instance column='[antibody_id]' derivation='None' name='[none:antibody_id:nk]' pivot='key' type='nominal' />
+      <column-instance column='[antibody_sequence_source]' derivation='None' name='[none:antibody_sequence_source:nk]' pivot='key' type='nominal' />
       <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
       <style>
         <style-rule element='mark'>
+          <encoding attr='color' field='[none:antibody_sequence_source:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;EvoDiff, dd2169c, MSA_OA_DM_MAXSUB&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;TheraSAbDab&quot;</bucket>
+            </map>
+          </encoding>
           <encoding attr='shape' field='[none:antibody_id:nk]' type='shape'>
             <map to=':filled/circle'>
               <bucket>&quot;Acrixolimab&quot;</bucket>
@@ -1001,8 +1006,8 @@
                   <column datatype='string' name='haddock_best_cluster' ordinal='18' />
                   <column datatype='string' name='haddock_best_pdb_path' ordinal='19' />
                   <column datatype='integer' name='haddock_Nstruc' ordinal='20' />
-                  <column datatype='real' name='haddock_Evdw+0.1Eelec' ordinal='21' />
-                  <column datatype='real' name='haddock_Evdw+0.1Eelec_sd' ordinal='22' />
+                  <column datatype='real' name='haddock_Evdw_plus_0.1Eelec' ordinal='21' />
+                  <column datatype='real' name='haddock_Evdw_plus_0.1Eelec_sd' ordinal='22' />
                   <column datatype='real' name='haddock_Evdw' ordinal='23' />
                   <column datatype='real' name='haddock_Evdw_sd' ordinal='24' />
                   <column datatype='real' name='haddock_Eelec' ordinal='25' />
@@ -1017,8 +1022,8 @@
                   <column datatype='integer' name='haddock_dihedviol_sd' ordinal='34' />
                   <column datatype='real' name='haddock_BSA' ordinal='35' />
                   <column datatype='real' name='haddock_BSA_sd' ordinal='36' />
-                  <column datatype='real' name='haddock-score' ordinal='37' />
-                  <column datatype='real' name='haddock-score_sd' ordinal='38' />
+                  <column datatype='real' name='haddock_score' ordinal='37' />
+                  <column datatype='real' name='haddock_score_sd' ordinal='38' />
                   <column datatype='real' name='haddock_prodigy_deltaG_kcalpermol' ordinal='39' />
                   <column datatype='real' name='haddock_prodigy_dissociation_constant_M' ordinal='40' />
                 </columns>
@@ -1700,7 +1705,7 @@
     </worksheet>
   </worksheets>
   <windows source-height='30'>
-    <window class='worksheet' name='Boxplots'>
+    <window class='worksheet' maximized='true' name='Boxplots'>
       <cards>
         <edge name='left'>
           <strip size='300'>
@@ -1741,7 +1746,7 @@
       </viewpoint>
       <simple-id uuid='{28BB818C-255A-448D-BEBE-DD60C6FED5C5}' />
     </window>
-    <window class='worksheet' maximized='true' name='Correlations'>
+    <window class='worksheet' name='Correlations'>
       <cards>
         <edge name='left'>
           <strip size='300'>
