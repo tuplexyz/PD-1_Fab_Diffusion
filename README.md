@@ -5,7 +5,7 @@
 ## Steps:
 0. Generate Sequences using EvoDiff
     - Follow EvoDiff logic in `scripts/0_sequence_generation/EvoDiff_sequence_generation.md`
-1. Generate Structures using AlphaFold2
+1. Generate Structures using AlphaFold2 (TUPPD1-001 to TUPPD1-009)
     - Run AlphaFold2 Batch using `scripts/1_structure_generation/AlphaFold2_batch.ipynb`
 2. Prepare Structures
     - Renumber L chains in PDB files with PyMol: `scripts/2_structure_prep/PDB_renumberer.ipynb`
