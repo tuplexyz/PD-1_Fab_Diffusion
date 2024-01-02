@@ -21,3 +21,4 @@
         - This notebook also runs PRODIGY to calculate binding affinities for each structure.
 6. Clean up HADDOCK run files
     - Run cleanup to move each experiments' run1/ directory into outputs: `scripts/6_cleanup/cleanup.ipynb`
+
