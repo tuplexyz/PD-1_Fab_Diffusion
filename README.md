@@ -2,7 +2,9 @@
 
 <h3 align="right">Tuple, LLC</h3>
 
-## Steps:
+## Antibody Generation and Testing
+
+### Steps:
 0. Generate Sequences using EvoDiff
     - Follow EvoDiff logic in `scripts/0_sequence_generation/EvoDiff_sequence_generation.md`
 1. Generate Structures using AlphaFold2 (TUPPD1-001 to TUPPD1-009)
