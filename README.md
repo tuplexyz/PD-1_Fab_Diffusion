@@ -2,10 +2,12 @@
 
 <h3 align="right">Tuple, LLC</h3>
 
-## Steps:
+## Antibody Generation and Testing
+
+### Steps:
 0. Generate Sequences using EvoDiff
     - Follow EvoDiff logic in `scripts/0_sequence_generation/EvoDiff_sequence_generation.md`
-1. Generate Structures using AlphaFold2
+1. Generate Structures using AlphaFold2 (TUPPD1-001 to TUPPD1-009)
     - Run AlphaFold2 Batch using `scripts/1_structure_generation/AlphaFold2_batch.ipynb`
 2. Prepare Structures
     - Renumber L chains in PDB files with PyMol: `scripts/2_structure_prep/PDB_renumberer.ipynb`
@@ -21,3 +23,4 @@
         - This notebook also runs PRODIGY to calculate binding affinities for each structure.
 6. Clean up HADDOCK run files
     - Run cleanup to move each experiments' run1/ directory into outputs: `scripts/6_cleanup/cleanup.ipynb`
+
