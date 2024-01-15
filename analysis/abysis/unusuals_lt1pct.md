@@ -1,4 +1,4 @@
-# AbYsis- and manually-identified CDR loops in [].
+# CDR loops (in []) identified manually and/or by AbYsis.
 
 ## Heavy Chains
 
