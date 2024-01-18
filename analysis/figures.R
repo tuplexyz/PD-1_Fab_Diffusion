@@ -6,11 +6,15 @@ library(ggpubr)
 ## Figure Generation
 
 ## Load in data
-data <- read_excel("../PD1_Candidates.xlsx")
+data <- read_excel("../PD1_Candidates.xlsx") %>% 
+  mutate(antibody_sequence_source = case_when(
+    antibody_sequence_source == "EvoDiff" ~ "Diffused",
+    TRUE ~ "TheraSAbDab"
+  ))
 
 
 ## Create Boxplots of metrics by Fv type
-plot_comparisons <- combn(c("EvoDiff", "TheraSAbDab"), 2, simplify = FALSE)
+plot_comparisons <- combn(c("Diffused", "TheraSAbDab"), 2, simplify = FALSE)
 pymol_palette <- c("#4D4DFF","#1A9999")
 
 ### VDW Energy
