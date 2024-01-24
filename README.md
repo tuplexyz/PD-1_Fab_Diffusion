@@ -5,7 +5,7 @@
 <h3 align="right">Tuple, LLC</h3>
 
 
-![bioRxiv Preprint](https://img.shields.io/badge/bioRvix_Preprint-https://www.biorxiv.org/content/10.1101/2024.01.18.576323-bd2736)
+<a href="https://www.biorxiv.org/content/10.1101/2024.01.18.576323" target="_blank">![bioRxiv Preprint](https://img.shields.io/badge/bioRvix_Preprint-https://www.biorxiv.org/content/10.1101/2024.01.18.576323-bd2736)</a>
 
 
 ![](figures/TUPPD1-001_vs_pembrolizumab.png)
