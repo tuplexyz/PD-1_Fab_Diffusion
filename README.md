@@ -32,4 +32,6 @@
         - This notebook also runs PRODIGY to calculate binding affinities for each structure.
 6. Clean up HADDOCK run files
     - Run cleanup to move each experiments' run1/ directory into outputs: [`scripts/6_cleanup/cleanup.ipynb`](scripts/6_cleanup/cleanup.ipynb)
-
+X. Run various post-analyses:
+    - abYsis for analyzing the residues in the Fabs: [`analysis/abysis`](analysis/abysis)
+    - OpenMM for molecular dynamics of the docked structures: [`analysis/molecular_dynamics/run_openmm.ipynb`](analysis/molecular_dynamics/run_openmm.ipynb)
