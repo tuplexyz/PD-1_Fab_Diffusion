@@ -5,7 +5,7 @@ docker run -v .:/workspace/evodiff/PD1 --gpus all --ipc=host --ulimit memlock=-1
 ## cd PD1/
 ```
 
-## Evolutionary Guided equence Generation
+## Evolutionary Guided Sequence Generation
 
 ```python
 from evodiff.pretrained import MSA_OA_DM_MAXSUB
