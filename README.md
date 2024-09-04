@@ -5,7 +5,11 @@
 <h3 align="right">Tuple, LLC</h3>
 
 
-<a href="https://www.biorxiv.org/content/10.1101/2024.01.18.576323" target="_blank">![bioRxiv Preprint](https://img.shields.io/badge/bioRvix_Preprint-https://www.biorxiv.org/content/10.1101/2024.01.18.576323-bd2736)</a>
+<!--<a href="https://www.biorxiv.org/content/10.1101/2024.01.18.576323" target="_blank">![bioRxiv Preprint](https://img.shields.io/badge/bioRvix_Preprint-https://www.biorxiv.org/content/10.1101/2024.01.18.576323-bd2736)</a>-->
+
+<a href="https://journals.sagepub.com/doi/10.1177/15330338241275947" target="_blank">![Journal Article](https://img.shields.io/badge/Journal_Article-https://journals.sagepub.com/doi/10.1177/15330338241275947-001f83)</a>
+
+
 
 <a href="https://medium.com/@tuplexyz/supporting-the-fight-against-cancer-tuple-unveils-anti-pd-1-antibodies-fully-designed-by-ai-4c2018f15ef7">![bioRxiv Preprint](https://img.shields.io/badge/Medium_Post-Tuple_Blog-000000)</a>
 
